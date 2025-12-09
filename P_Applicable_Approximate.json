@@ -1,0 +1,4839 @@
+[
+  {
+    "code": "P00",
+    "description": "Newborn affected by maternal conditions that may be unrelated to present pregnancy",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P00.0",
+        "description": "Newborn affected by maternal hypertensive disorders",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal conditions classifiable to ICD-10-CM Diagnosis Code O10Pre-existing hypertension complicating pregnancy, childbirth and the puerperium2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Includespre-existing hypertension with pre-existing proteinuria complicating pregnancy, childbirth and the puerperiumType 2 Excludespre-existing hypertension with superimposed pre-eclampsia complicating pregnancy, childbirth and the puerperium (O11.-)O10-ICD-10-CM Diagnosis Code O11Pre-existing hypertension with pre-eclampsia2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Includesconditions in O10 complicated by pre-eclampsiapre-eclampsia superimposed pre-existing hypertensionUse Additionalcode from O10 to identify the type of hypertensionO11, ICD-10-CM Diagnosis Code O13Gestational [pregnancy-induced] hypertension without significant proteinuria2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Includesgestational hypertension NOStransient hypertension of pregnancyO13-ICD-10-CM Diagnosis Code O16Unspecified maternal hypertension2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code O16",
+          "pre-existing hypertension with pre-existing proteinuria complicating pregnancy, childbirth and the puerperium",
+          "pre-existing hypertension with superimposed pre-eclampsia complicating pregnancy, childbirth and the puerperium (O11.-)",
+          "conditions in O10 complicated by pre-eclampsia",
+          "pre-eclampsia superimposed pre-existing hypertension",
+          "code from O10 to identify the type of hypertension",
+          "gestational hypertension NOS",
+          "transient hypertension of pregnancy"
+        ],
+        "approximate_synonyms": [
+          "Newborn affected by maternal high blood pressure",
+          "Newborn affected by maternal hypertension"
+        ],
+        "children": []
+      },
+      {
+        "code": "P00.1",
+        "description": "Newborn affected by maternal renal and urinary tract diseases",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal conditions classifiable to ICD-10-CM Diagnosis Code N00Acute nephritic syndrome2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Includesacute glomerular diseaseacute glomerulonephritisacute nephritisType 1 Excludesacute tubulo-interstitial nephritis (N10)nephritic syndrome NOS (N05.-)N00-ICD-10-CM Diagnosis Code N39Other disorders of urinary system2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Type 2 Excludeshematuria NOS (R31.-)recurrent or persistent hematuria (N02.-)recurrent or persistent hematuria with specified morphological lesion (N02.-)proteinuria NOS (R80.-)N39",
+          "acute glomerular disease",
+          "acute glomerulonephritis",
+          "acute nephritis",
+          "acute tubulo-interstitial nephritis (N10)",
+          "nephritic syndrome NOS (N05.-)",
+          "hematuria NOS (R31.-)",
+          "recurrent or persistent hematuria (N02.-)",
+          "recurrent or persistent hematuria with specified morphological lesion (N02.-)",
+          "proteinuria NOS (R80.-)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.2",
+        "description": "Newborn affected by maternal infectious and parasitic diseases",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal infectious disease classifiable to A00-B99 ICD-10-CM Range A00-B99Certain infectious and parasitic diseasesA00-A09 Intestinal infectious diseasesA15-A19 TuberculosisA20-A28 Certain zoonotic bacterial diseasesA30-A49 Other bacterial diseasesA50-A64 Infections with a predominantly sexual m...A65-A69 Other spirochetal diseasesA70-A74 Other diseases caused by chlamydiaeA75-A79 RickettsiosesA80-A89 Viral and prion infections of the centra...A90-A99 Arthropod-borne viral fevers and viral h...B00-B09 Viral infections characterized by skin a...B10-B10 Other human herpesvirusesB15-B19 Viral hepatitisB20-B20 Human immunodeficiency virus [HIV] disea...B25-B34 Other viral diseasesB35-B49 MycosesB50-B64 Protozoal diseasesB65-B83 HelminthiasesB85-B89 Pediculosis, acariasis and other infesta...B90-B94 Sequelae of infectious and parasitic dis...B95-B97 Bacterial and viral infectious agentsB99-B99 Other infectious diseases, ICD-10-CM Diagnosis Code J09Influenza due to certain identified influenza viruses2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Type 1 Excludesinfluenza A/H1N1 (J10.-)influenza due to other identified influenza virus (J10.-)influenza due to unidentified influenza virus (J11.-)seasonal influenza due to other identified influenza virus (J10.-)seasonal influenza due to unidentified influenza virus (J11.-)J09 and ICD-10-CM Diagnosis Code J10Influenza due to other identified influenza virus2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Includesinfluenza A (non-novel)influenza Binfluenza CType 1 Excludesinfluenza due to avian influenza virus (J09.X-)influenza due to swine flu (J09.X-)influenza due to unidentifed influenza virus (J11.-)J10",
+          "A00-A09 Intestinal infectious diseases",
+          "A15-A19 Tuberculosis",
+          "A20-A28 Certain zoonotic bacterial diseases",
+          "A30-A49 Other bacterial diseases",
+          "A50-A64 Infections with a predominantly sexual m...",
+          "A65-A69 Other spirochetal diseases",
+          "A70-A74 Other diseases caused by chlamydiae",
+          "A75-A79 Rickettsioses",
+          "A80-A89 Viral and prion infections of the centra...",
+          "A90-A99 Arthropod-borne viral fevers and viral h...",
+          "B00-B09 Viral infections characterized by skin a...",
+          "B10-B10 Other human herpesviruses",
+          "B15-B19 Viral hepatitis",
+          "B20-B20 Human immunodeficiency virus [HIV] disea...",
+          "B25-B34 Other viral diseases",
+          "B35-B49 Mycoses",
+          "B50-B64 Protozoal diseases",
+          "B65-B83 Helminthiases",
+          "B85-B89 Pediculosis, acariasis and other infesta...",
+          "B90-B94 Sequelae of infectious and parasitic dis...",
+          "B95-B97 Bacterial and viral infectious agents",
+          "B99-B99 Other infectious diseases",
+          "influenza A/H1N1 (J10.-)",
+          "influenza due to other identified influenza virus (J10.-)",
+          "influenza due to unidentified influenza virus (J11.-)",
+          "seasonal influenza due to other identified influenza virus (J10.-)",
+          "seasonal influenza due to unidentified influenza virus (J11.-)",
+          "influenza A (non-novel)",
+          "influenza B",
+          "influenza C",
+          "influenza due to avian influenza virus (J09.X-)",
+          "influenza due to swine flu (J09.X-)",
+          "influenza due to unidentifed influenza virus (J11.-)"
+        ],
+        "approximate_synonyms": [
+          "Infant observed for suspected infectious disease",
+          "Infant observed for suspected sepsis",
+          "Newborn affected by maternal infection",
+          "Observation of infant for suspected infectious disease",
+          "Observation of infant for suspected sepsis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P00.3",
+        "description": "Newborn affected by other maternal circulatory and respiratory diseases",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal conditions classifiable to I00-I99 ICD-10-CM Range I00-I99Diseases of the circulatory systemI00-I02 Acute rheumatic feverI05-I09 Chronic rheumatic heart diseasesI10-I1A Hypertensive diseasesI20-I25 Ischemic heart diseasesI26-I28 Pulmonary heart disease and diseases of ...I30-I5A Other forms of heart diseaseI60-I69 Cerebrovascular diseasesI70-I79 Diseases of arteries, arterioles and cap...I80-I89 Diseases of veins, lymphatic vessels and...I95-I99 Other and unspecified disorders of the c..., J00-J99 ICD-10-CM Range J00-J99Diseases of the respiratory systemJ00-J06 Acute upper respiratory infectionsJ09-J18 Influenza and pneumoniaJ20-J22 Other acute lower respiratory infectionsJ30-J39 Other diseases of upper respiratory trac...J40-J4A Chronic lower respiratory diseasesJ60-J70 Lung diseases due to external agentsJ80-J84 Other respiratory diseases principally a...J85-J86 Suppurative and necrotic conditions of t...J90-J94 Other diseases of the pleuraJ95-J95 Intraoperative and postprocedural compli...J96-J99 Other diseases of the respiratory system, ICD-10-CM Diagnosis Code Q20Congenital malformations of cardiac chambers and connections2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Type 1 Excludesdextrocardia with situs inversus (Q89.3)mirror-image atrial arrangement with situs inversus (Q89.3)Q20-ICD-10-CM Diagnosis Code Q34Other congenital malformations of respiratory system2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Type 2 Excludescongenital central alveolar hypoventilation syndrome (G47.35)Q34 and not included in ICD-10-CM Diagnosis Code P00.0Newborn affected by maternal hypertensive disorders2016 2017 - Revised Code 2018 2019 2020 2021 2022 2023 2024 2025 2026 Billable/Specific Code Code on Newborn Record POA Exempt Applicable ToNewborn affected by maternal conditions classifiable to O10-O11, O13-O16P00.0, ICD-10-CM Diagnosis Code P00.2Newborn affected by maternal infectious and parasitic diseases2016 2017 - Revised Code 2018 2019 2020 2021 2022 2023 2024 2025 2026 Billable/Specific Code Code on Newborn Record POA Exempt Applicable ToNewborn affected by maternal infectious disease classifiable to A00-B99, J09 and J10Type 1 Excludesmaternal genital tract or other localized infections (P00.8)Type 2 Excludesinfections specific to the perinatal period (P35-P39)newborn affected by (positive) maternal group B streptococcus (GBS) colonization (P00.82)P00.2",
+          "I00-I02 Acute rheumatic fever",
+          "I05-I09 Chronic rheumatic heart diseases",
+          "I10-I1A Hypertensive diseases",
+          "I20-I25 Ischemic heart diseases",
+          "I26-I28 Pulmonary heart disease and diseases of ...",
+          "I30-I5A Other forms of heart disease",
+          "I60-I69 Cerebrovascular diseases",
+          "I70-I79 Diseases of arteries, arterioles and cap...",
+          "I80-I89 Diseases of veins, lymphatic vessels and...",
+          "I95-I99 Other and unspecified disorders of the c...",
+          "J00-J06 Acute upper respiratory infections",
+          "J09-J18 Influenza and pneumonia",
+          "J20-J22 Other acute lower respiratory infections",
+          "J30-J39 Other diseases of upper respiratory trac...",
+          "J40-J4A Chronic lower respiratory diseases",
+          "J60-J70 Lung diseases due to external agents",
+          "J80-J84 Other respiratory diseases principally a...",
+          "J85-J86 Suppurative and necrotic conditions of t...",
+          "J90-J94 Other diseases of the pleura",
+          "J95-J95 Intraoperative and postprocedural compli...",
+          "J96-J99 Other diseases of the respiratory system",
+          "dextrocardia with situs inversus (Q89.3)",
+          "mirror-image atrial arrangement with situs inversus (Q89.3)",
+          "congenital central alveolar hypoventilation syndrome (G47.35)",
+          "Newborn affected by maternal conditions classifiable to O10-O11, O13-O16",
+          "Newborn affected by maternal infectious disease classifiable to A00-B99, J09 and J10",
+          "maternal genital tract or other localized infections (P00.8)",
+          "infections specific to the perinatal period (P35-P39)",
+          "newborn affected by (positive) maternal group B streptococcus (GBS) colonization (P00.82)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.4",
+        "description": "Newborn affected by maternal nutritional disorders",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal disorders classifiable to ICD-10-CM Diagnosis Code E40Kwashiorkor2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Billable/Specific Code Applicable ToSevere malnutrition with nutritional edema with dyspigmentation of skin and hairType 1 Excludesmarasmic kwashiorkor (E42)E40-ICD-10-CM Diagnosis Code E64Sequelae of malnutrition and other nutritional deficiencies2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Code Firstcondition resulting from (sequela) of malnutrition and other nutritional deficienciesNoteThis category is to be used to indicate conditions in categories E43, E44, E46, E50-E63 as the cause of sequelae, which are themselves classified elsewhere. The 'sequelae' include conditions specified as such; they also include the late effects of diseases classifiable to the above categories if the disease itself is no longer presentE64",
+          "Severe malnutrition with nutritional edema with dyspigmentation of skin and hair",
+          "marasmic kwashiorkor (E42)",
+          "condition resulting from (sequela) of malnutrition and other nutritional deficiencies",
+          "This category is to be used to indicate conditions in categories E43, E44, E46, E50-E63 as the cause of sequelae, which are themselves classified elsewhere. The 'sequelae' include conditions specified as such; they also include the late effects of diseases classifiable to the above categories if the disease itself is no longer present",
+          "Maternal malnutrition NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.5",
+        "description": "Newborn affected by maternal injury",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal conditions classifiable to ICD-10-CM Diagnosis Code O9A.2Injury, poisoning and certain other consequences of external causes complicating pregnancy, childbirth and the puerperium2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Non-Billable/Non-Specific Code Applicable ToConditions in S00-T88, except T74 and T76Type 2 Excludesphysical, sexual and psychological abuse complicating pregnancy, childbirth and the puerperium (O9A.3-, O9A.4-, O9A.5-)Use Additionalcode(s) to identify the injury or poisoningO9A.2-",
+          "Conditions in S00-T88, except T74 and T76",
+          "physical, sexual and psychological abuse complicating pregnancy, childbirth and the puerperium (O9A.3-, O9A.4-, O9A.5-)",
+          "code(s) to identify the injury or poisoning"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.6",
+        "description": "Newborn affected by surgical procedure on mother",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by amniocentesis"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.7",
+        "description": "Newborn affected by other medical procedures on mother, not elsewhere classified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by radiation to mother"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P00.8",
+        "description": "Newborn affected by other maternal conditions",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by maternal infectious disease classifiable to A00-B99, J09 and J10"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P00.82",
+            "description": "Newborn affected by (positive) maternal group B streptococcus (GBS) colonization",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with positive maternal group B streptococcus"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P00.81",
+            "description": "Newborn affected by periodontal disease in mother",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Newborn affected by maternal periodontal disease"
+            ],
+            "children": []
+          },
+          {
+            "code": "P00.89",
+            "description": "Newborn affected by other maternal conditions",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn affected by conditions classifiable to T80-T88 ICD-10-CM Range T80-T88Complications of surgical and medical care, not elsewhere classifiedType 2 Excludesany encounters with medical care for postprocedural conditions in which no complications are present, such as:artificial opening status (Z93.-)closure of external stoma (Z43.-)fitting and adjustment of external prosthetic device (Z44.-)burns and corrosions from local applications and irradiation (T20-T32)complications of surgical procedures during pregnancy, childbirth and the puerperium (O00-O9A)mechanical complication of respirator [ventilator] (J95.850)poisoning and toxic effects of drugs and chemicals (T36-T65 with fifth or sixth character 1-4 or 6)postprocedural fever (R50.82)specified complications classified elsewhere, such as:cerebrospinal fluid leak from spinal puncture (G97.0)colostomy malfunction (K94.0-)disorders of fluid and electrolyte imbalance (E86-E87)functional disturbances following cardiac surgery (I97.0-I97.1)intraoperative and postprocedural complications of specified body systems (D78.-, E36.-, E89.-, G97.3-, G97.4, H59.3-, H59.-, H95.2-, H95.3, I97.4-, I97.5, J95.6-, J95.7, K91.6-, L76.-, M96.-, N99.-)ostomy complications (J95.0-, K94.-, N99.5-)postgastric surgery syndromes (K91.1)postlaminectomy syndrome NEC (M96.1)postmastectomy lymphedema syndrome (I97.2)postsurgical blind-loop syndrome (K91.2)ventilator associated pneumonia (J95.851)Use Additionalcode for adverse effect, if applicable, to identify drug (T36-T50 with fifth or sixth character 5)T80 Complications following infusion, transf...T81 Complications of procedures, not elsewhe...T82 Complications of cardiac and vascular pr...T83 Complications of genitourinary prostheti...T84 Complications of internal orthopedic pro...T85 Complications of other internal prosthet...T86 Complications of transplanted organs and...T87 Complications peculiar to reattachment a...T88 Other complications of surgical and medi...",
+              "any encounters with medical care for postprocedural conditions in which no complications are present, such as:",
+              "artificial opening status (Z93.-)",
+              "closure of external stoma (Z43.-)",
+              "fitting and adjustment of external prosthetic device (Z44.-)",
+              "burns and corrosions from local applications and irradiation (T20-T32)",
+              "complications of surgical procedures during pregnancy, childbirth and the puerperium (O00-O9A)",
+              "mechanical complication of respirator [ventilator] (J95.850)",
+              "poisoning and toxic effects of drugs and chemicals (T36-T65 with fifth or sixth character 1-4 or 6)",
+              "postprocedural fever (R50.82)",
+              "specified complications classified elsewhere, such as:",
+              "cerebrospinal fluid leak from spinal puncture (G97.0)",
+              "colostomy malfunction (K94.0-)",
+              "disorders of fluid and electrolyte imbalance (E86-E87)",
+              "functional disturbances following cardiac surgery (I97.0-I97.1)",
+              "intraoperative and postprocedural complications of specified body systems (D78.-, E36.-, E89.-, G97.3-, G97.4, H59.3-, H59.-, H95.2-, H95.3, I97.4-, I97.5, J95.6-, J95.7, K91.6-, L76.-, M96.-, N99.-)",
+              "ostomy complications (J95.0-, K94.-, N99.5-)",
+              "postgastric surgery syndromes (K91.1)",
+              "postlaminectomy syndrome NEC (M96.1)",
+              "postmastectomy lymphedema syndrome (I97.2)",
+              "postsurgical blind-loop syndrome (K91.2)",
+              "ventilator associated pneumonia (J95.851)",
+              "code for adverse effect, if applicable, to identify drug (T36-T50 with fifth or sixth character 5)",
+              "T80 Complications following infusion, transf...",
+              "T81 Complications of procedures, not elsewhe...",
+              "T82 Complications of cardiac and vascular pr...",
+              "T83 Complications of genitourinary prostheti...",
+              "T84 Complications of internal orthopedic pro...",
+              "T85 Complications of other internal prosthet...",
+              "T86 Complications of transplanted organs and...",
+              "T87 Complications peculiar to reattachment a...",
+              "T88 Other complications of surgical and medi...",
+              "Newborn affected by maternal genital tract or other localized infections",
+              "Newborn affected by maternal systemic lupus erythematosus"
+            ],
+            "approximate_synonyms": [
+              "Infant observed for suspected genetic disease",
+              "Infant observed for suspected metabolic disease",
+              "Newborn affected by maternal depression",
+              "Newborn affected by maternal high blood sugar",
+              "Newborn affected by maternal hyperglycemia",
+              "Newborn affected by maternal postpartum depression",
+              "Newborn affected by mother with positive hepatitis b surface antigen",
+              "Observation of infant for suspected genetic condition",
+              "Observation of infant for suspected metabolic condition"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P00.81",
+        "description": "Newborn affected by periodontal disease in mother",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Newborn affected by maternal periodontal disease"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P05",
+    "description": "Disorders of newborn related to slow fetal growth and fetal malnutrition",
+    "clinical_information": [],
+    "applicable_to": [
+      "Newborn birth weight 999 g. or less"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P05.0",
+        "description": "Newborn light for gestational age",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P05.00",
+            "description": "Newborn light for gestational age, unspecified weight",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.01",
+            "description": "Newborn light for gestational age, less than 500 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.02",
+            "description": "Newborn light for gestational age, 500-749 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.03",
+            "description": "Newborn light for gestational age, 750-999 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.04",
+            "description": "Newborn light for gestational age, 1000-1249 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.05",
+            "description": "Newborn light for gestational age, 1250-1499 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.06",
+            "description": "Newborn light for gestational age, 1500-1749 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.07",
+            "description": "Newborn light for gestational age, 1750-1999 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.08",
+            "description": "Newborn light for gestational age, 2000-2499 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light-for-dates",
+              "Weight below but length above 10th percentile for gestational age"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P05.09",
+            "description": "Newborn light for gestational age, 2500 grams and over",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn light for gestational age, other"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P05.00",
+        "description": "Newborn light for gestational age, unspecified weight",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.01",
+        "description": "Newborn light for gestational age, less than 500 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.02",
+        "description": "Newborn light for gestational age, 500-749 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.03",
+        "description": "Newborn light for gestational age, 750-999 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.04",
+        "description": "Newborn light for gestational age, 1000-1249 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.05",
+        "description": "Newborn light for gestational age, 1250-1499 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.06",
+        "description": "Newborn light for gestational age, 1500-1749 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.07",
+        "description": "Newborn light for gestational age, 1750-1999 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P05.08",
+        "description": "Newborn light for gestational age, 2000-2499 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn light-for-dates",
+          "Weight below but length above 10th percentile for gestational age"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P07",
+    "description": "Disorders of newborn related to short gestation and low birth weight, not elsewhere classified",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P07.0",
+        "description": "Extremely low birth weight newborn",
+        "clinical_information": [
+          "An infant whose weight at birth is less than 1000 grams (2.2 lbs), regardless of gestational age."
+        ],
+        "applicable_to": [
+          "Newborn birth weight 999 g. or less"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P07.00",
+            "description": "Extremely low birth weight newborn, unspecified weight",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 999 g. or less"
+            ],
+            "approximate_synonyms": [
+              "Extremely low birth weight infant",
+              "Extremely low birth weight newborn"
+            ],
+            "children": []
+          },
+          {
+            "code": "P07.01",
+            "description": "Extremely low birth weight newborn, less than 500 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 999 g. or less"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P07.02",
+            "description": "Extremely low birth weight newborn, 500-749 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 999 g. or less"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P07.03",
+            "description": "Extremely low birth weight newborn, 750-999 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 999 g. or less"
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 750 to 999 grams"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P07.00",
+        "description": "Extremely low birth weight newborn, unspecified weight",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 999 g. or less"
+        ],
+        "approximate_synonyms": [
+          "Extremely low birth weight infant",
+          "Extremely low birth weight newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P07.01",
+        "description": "Extremely low birth weight newborn, less than 500 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 999 g. or less"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P07.02",
+        "description": "Extremely low birth weight newborn, 500-749 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 999 g. or less"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P07.03",
+        "description": "Extremely low birth weight newborn, 750-999 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 999 g. or less"
+        ],
+        "approximate_synonyms": [
+          "Preterm infant, 750 to 999 grams"
+        ],
+        "children": []
+      },
+      {
+        "code": "P07.1",
+        "description": "Other low birth weight newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 1000-2499 g."
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P07.10",
+            "description": "Other low birth weight newborn, unspecified weight",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P07.14",
+            "description": "Other low birth weight newborn, 1000-1249 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 1000 to 1249 grams"
+            ],
+            "children": []
+          },
+          {
+            "code": "P07.15",
+            "description": "Other low birth weight newborn, 1250-1499 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 1250 to 1499 grams"
+            ],
+            "children": []
+          },
+          {
+            "code": "P07.16",
+            "description": "Other low birth weight newborn, 1500-1749 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 1500 to 1749 grams"
+            ],
+            "children": []
+          },
+          {
+            "code": "P07.17",
+            "description": "Other low birth weight newborn, 1750-1999 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 1750 to 1999 grams"
+            ],
+            "children": []
+          },
+          {
+            "code": "P07.18",
+            "description": "Other low birth weight newborn, 2000-2499 grams",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn birth weight 1000-2499 g."
+            ],
+            "approximate_synonyms": [
+              "Preterm infant, 2000 to 2499 grams"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P07.10",
+        "description": "Other low birth weight newborn, unspecified weight",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 1000-2499 g."
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P07.14",
+        "description": "Other low birth weight newborn, 1000-1249 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 1000-2499 g."
+        ],
+        "approximate_synonyms": [
+          "Preterm infant, 1000 to 1249 grams"
+        ],
+        "children": []
+      },
+      {
+        "code": "P07.15",
+        "description": "Other low birth weight newborn, 1250-1499 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 1000-2499 g."
+        ],
+        "approximate_synonyms": [
+          "Preterm infant, 1250 to 1499 grams"
+        ],
+        "children": []
+      },
+      {
+        "code": "P07.16",
+        "description": "Other low birth weight newborn, 1500-1749 grams",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn birth weight 1000-2499 g."
+        ],
+        "approximate_synonyms": [
+          "Preterm infant, 1500 to 1749 grams"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P08",
+    "description": "Disorders of newborn related to long gestation and high birth weight",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P08.0",
+        "description": "Exceptionally large newborn baby",
+        "clinical_information": [
+          "A fetus or infant who is larger than expected for the age or gender, or who has a birthweight greater than the 90th percentile."
+        ],
+        "applicable_to": [
+          "Usually implies a birth weight of 4500 g. or more"
+        ],
+        "approximate_synonyms": [
+          "Large for gestational age newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P08.1",
+        "description": "Other heavy for gestational age newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Other newborn heavy- or large-for-dates regardless of period of gestation",
+          "Usually implies a birth weight of 4000 g. to 4499 g."
+        ],
+        "approximate_synonyms": [
+          "Large for gestational age newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P08.2",
+        "description": "Late newborn, not heavy for gestational age",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P08.21",
+            "description": "Post-term newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn with gestation period over 40 completed weeks to 42 completed weeks"
+            ],
+            "approximate_synonyms": [
+              "Post-term infant, not heavy-for-dates",
+              "Postterm infant, not heavy for dates"
+            ],
+            "children": []
+          },
+          {
+            "code": "P08.22",
+            "description": "Prolonged gestation of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn with gestation period over 42 completed weeks (294 days or more), not heavy- or large-for-dates.",
+              "Postmaturity NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P08.21",
+        "description": "Post-term newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn with gestation period over 40 completed weeks to 42 completed weeks"
+        ],
+        "approximate_synonyms": [
+          "Post-term infant, not heavy-for-dates",
+          "Postterm infant, not heavy for dates"
+        ],
+        "children": []
+      },
+      {
+        "code": "P08.22",
+        "description": "Prolonged gestation of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn with gestation period over 42 completed weeks (294 days or more), not heavy- or large-for-dates.",
+          "Postmaturity NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P09",
+    "description": "Abnormal findings on neonatal screening",
+    "clinical_information": [],
+    "applicable_to": [
+      "Nonconclusive HIV-test finding in infants"
+    ],
+    "approximate_synonyms": [
+      "Neonatal screening abnormal"
+    ],
+    "children": [
+      {
+        "code": "P09.1",
+        "description": "Abnormal findings on neonatal screening for inborn errors of metabolism",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.2",
+        "description": "Abnormal findings on neonatal screening for congenital endocrine disease",
+        "clinical_information": [],
+        "applicable_to": [
+          "Abnormal findings on neonatal screening for congenital adrenal hyperplasia",
+          "Abnormal findings on neonatal screening for hypothyroidism screen"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.3",
+        "description": "Abnormal findings on neonatal screening for congenital hematologic disorders",
+        "clinical_information": [],
+        "applicable_to": [
+          "Abnormal findings for hemoglobinopathy screening",
+          "Abnormal findings on red cell membrane defects screen",
+          "Abnormal findings on sickle cell screen"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.4",
+        "description": "Abnormal findings on neonatal screening for cystic fibrosis",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.5",
+        "description": "Abnormal findings on neonatal screening for critical congenital heart disease",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal congenital heart disease screening failure"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.6",
+        "description": "Abnormal findings on neonatal hearing screening",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.8",
+        "description": "Other abnormal findings on neonatal screening",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P09.9",
+        "description": "Abnormal findings on neonatal screening, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P10",
+    "description": "Intracranial laceration and hemorrhage due to birth injury",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P10.0",
+        "description": "Subdural hemorrhage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [
+          "Subdural hematoma (localized) due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Cerebral hematoma due to birth trauma",
+          "Local subdural hematoma due to birth trauma",
+          "Subdural hematoma due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P10.1",
+        "description": "Cerebral hemorrhage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P10.2",
+        "description": "Intraventricular hemorrhage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Intraventricular hemorrhage due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P10.3",
+        "description": "Subarachnoid hemorrhage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Subarachnoid hemorrhage due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P10.4",
+        "description": "Tentorial tear due to birth injury",
+        "clinical_information": [
+          "Pertaining to tears involving the tentorium of the cerebellum."
+        ],
+        "applicable_to": [
+          "Subdural hematoma (localized) due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Tentorial tear due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P10.8",
+        "description": "Other intracranial lacerations and hemorrhages due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P10.9",
+        "description": "Unspecified intracranial laceration and hemorrhage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P11",
+    "description": "Other birth injuries to central nervous system",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P11.0",
+        "description": "Cerebral edema due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cerebral edema due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.1",
+        "description": "Other specified brain damage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hypoxic ischemic encephalopathy associated with birth",
+          "Hypoxic ischemic encephalopathy due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.2",
+        "description": "Unspecified brain damage due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Brain damage due to birth trauma",
+          "Cerebral injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.3",
+        "description": "Birth injury to facial nerve",
+        "clinical_information": [],
+        "applicable_to": [
+          "Facial palsy due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Facial nerve injury as birth trauma",
+          "Facial nerve injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.4",
+        "description": "Birth injury to other cranial nerves",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cranial nerve injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.5",
+        "description": "Birth injury to spine and spinal cord",
+        "clinical_information": [],
+        "applicable_to": [
+          "Fracture of spine due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Spinal cord injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P11.9",
+        "description": "Birth injury to central nervous system, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cns injury due to birth trauma",
+          "Injury of central nervous system due to birth trauma"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P12",
+    "description": "Birth injury to scalp",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P12.0",
+        "description": "Cephalhematoma due to birth injury",
+        "clinical_information": [
+          "A subperiosteal hemorrhage limited to the surface of one cranial bone, a usually benign condition seen in the newborn as a result of bone trauma.",
+          "A subperiosteal hemorrhage limited to the surface of one cranial bone."
+        ],
+        "applicable_to": [
+          "Neonatal bruising",
+          "Neonatal ecchymoses",
+          "Neonatal petechiae",
+          "Neonatal superficial hematomata"
+        ],
+        "approximate_synonyms": [
+          "Cephalhematoma due to birth trauma",
+          "Cephalohematoma due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P12.1",
+        "description": "Chignon (from vacuum extraction) due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Chignon due to vacuum extraction",
+          "Vacuum extraction chignon"
+        ],
+        "children": []
+      },
+      {
+        "code": "P12.2",
+        "description": "Epicranial subaponeurotic hemorrhage due to birth injury",
+        "clinical_information": [
+          "Bleeding in the area between the scalp and the skull."
+        ],
+        "applicable_to": [
+          "Subgaleal hemorrhage"
+        ],
+        "approximate_synonyms": [
+          "Subgaleal hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P12.3",
+        "description": "Bruising of scalp due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal bruising",
+          "Neonatal ecchymoses",
+          "Neonatal petechiae",
+          "Neonatal superficial hematomata"
+        ],
+        "approximate_synonyms": [
+          "Scalp bruising due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P12.4",
+        "description": "Injury of scalp of newborn due to monitoring equipment",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sampling incision of scalp of newborn",
+          "Scalp clip (electrode) injury of newborn"
+        ],
+        "approximate_synonyms": [
+          "Fetal monitoring scalp injury",
+          "Scalp injury due to fetal monitoring equipment"
+        ],
+        "children": []
+      },
+      {
+        "code": "P12.8",
+        "description": "Other birth injuries to scalp",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P12.81",
+            "description": "Caput succedaneum",
+            "clinical_information": [
+              "A diffuse swelling of the scalp in a newborn, usually caused by the trauma of the scalp pushing through a narrowed cervix during birth. The swelling may extend across the midline of the scalp and may exhibit discoloration or bruising."
+            ],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P12.89",
+            "description": "Other birth injuries to scalp",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P12.81",
+        "description": "Caput succedaneum",
+        "clinical_information": [
+          "A diffuse swelling of the scalp in a newborn, usually caused by the trauma of the scalp pushing through a narrowed cervix during birth. The swelling may extend across the midline of the scalp and may exhibit discoloration or bruising."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P12.89",
+        "description": "Other birth injuries to scalp",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P12.9",
+        "description": "Birth injury to scalp, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Birth injury to scalp"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P13",
+    "description": "Birth injury to skeleton",
+    "clinical_information": [],
+    "applicable_to": [
+      "Fracture of spine due to birth injury"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P13.0",
+        "description": "Fracture of skull due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Fractured skull due to birth trauma",
+          "Skull fracture due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P13.1",
+        "description": "Other birth injuries to skull",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P13.2",
+        "description": "Birth injury to femur",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Femur fracture due to birth trauma",
+          "Fracture of femur due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P13.3",
+        "description": "Birth injury to other long bones",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P13.4",
+        "description": "Fracture of clavicle due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Clavicle fracture due to birth trauma",
+          "Fracture of clavicle due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P13.8",
+        "description": "Birth injuries to other parts of skeleton",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P13.9",
+        "description": "Birth injury to skeleton, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Skeletal injury due to birth trauma"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P14",
+    "description": "Birth injury to peripheral nervous system",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P14.0",
+        "description": "Erb's paralysis due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Erb-duchenne paralysis",
+          "Erbs palsy"
+        ],
+        "children": []
+      },
+      {
+        "code": "P14.1",
+        "description": "Klumpke's paralysis due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Klumpke-d\u00e8jerine paralysis as birth trauma",
+          "Klumpkes plexopathy due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P14.2",
+        "description": "Phrenic nerve paralysis due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Phrenic nerve paralysis as birth trauma",
+          "Phrenic nerve paralysis due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P14.3",
+        "description": "Other brachial plexus birth injuries",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Brachial plexus injury due to birth trauma",
+          "Injury to brachial plexus as birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P14.8",
+        "description": "Birth injuries to other parts of peripheral nervous system",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P14.9",
+        "description": "Birth injury to peripheral nervous system, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Peripheral nerve injury due to birth trauma",
+          "Peripheral nervous system injury due to birth trauma"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P15",
+    "description": "Other birth injuries",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P15.0",
+        "description": "Birth injury to liver",
+        "clinical_information": [],
+        "applicable_to": [
+          "Rupture of liver due to birth injury"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P15.1",
+        "description": "Birth injury to spleen",
+        "clinical_information": [],
+        "applicable_to": [
+          "Rupture of spleen due to birth injury"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P15.2",
+        "description": "Sternomastoid injury due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Sternomastoid injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P15.3",
+        "description": "Birth injury to eye",
+        "clinical_information": [],
+        "applicable_to": [
+          "Subconjunctival hemorrhage due to birth injury",
+          "Traumatic glaucoma due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Eye damage due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P15.4",
+        "description": "Birth injury to face",
+        "clinical_information": [],
+        "applicable_to": [
+          "Facial congestion due to birth injury"
+        ],
+        "approximate_synonyms": [
+          "Facial injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P15.5",
+        "description": "Birth injury to external genitalia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P15.6",
+        "description": "Subcutaneous fat necrosis due to birth injury",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Subcutaneous fat necrosis due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P15.8",
+        "description": "Other specified birth injuries",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Nerve birth trauma",
+          "Nerve injury due to birth trauma"
+        ],
+        "children": []
+      },
+      {
+        "code": "P15.9",
+        "description": "Birth injury, unspecified",
+        "clinical_information": [
+          "Mechanical or anoxic trauma incurred by or to the infant during labor or delivery.",
+          "Mechanical or anoxic trauma incurred by the infant during labor or delivery.",
+          "Physical injuries (such as brain damage) received during birth, mostly in, but not limited to, breech births, instrument deliveries, neonatal anoxia, or premature births. Used for both human and animal populations."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Birth trauma"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P19",
+    "description": "Metabolic acidemia in newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P19.0",
+        "description": "Metabolic acidemia in newborn first noted before onset of labor",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P19.1",
+        "description": "Metabolic acidemia in newborn first noted during labor",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P19.2",
+        "description": "Metabolic acidemia noted at birth",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P19.9",
+        "description": "Metabolic acidemia in newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal metabolic acidemia"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P22",
+    "description": "Respiratory distress of newborn",
+    "clinical_information": [
+      "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, most frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+      "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, mostly frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+      "A condition of the newborn marked by dyspnea with cyanosis, most frequently occurring in premature infants, children of diabetic mothers and infants delivered by cesarean section, and sometimes with no predisposing cause."
+    ],
+    "applicable_to": [
+      "Mechanical suffocation",
+      "Traumatic suffocation"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P22.0",
+        "description": "Respiratory distress syndrome of newborn",
+        "clinical_information": [
+          "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, most frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+          "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, mostly frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+          "A condition of the newborn marked by dyspnea with cyanosis, most frequently occurring in premature infants, children of diabetic mothers and infants delivered by cesarean section, and sometimes with no predisposing cause.",
+          "A respiratory distress syndrome in newborn infants, usually premature infants with insufficient pulmonary surfactants. The disease is characterized by the formation of a hyaline-like membrane lining the terminal respiratory airspaces (pulmonary alveoli) and subsequent collapse of the lung (pulmonary atelectasis)."
+        ],
+        "applicable_to": [
+          "Cardiorespiratory distress syndrome of newborn",
+          "Hyaline membrane disease",
+          "Idiopathic respiratory distress syndrome [IRDS or RDS] of newborn",
+          "Pulmonary hypoperfusion syndrome",
+          "Respiratory distress syndrome, type I"
+        ],
+        "approximate_synonyms": [
+          "Respiratory distress syndrome in neonate",
+          "Respiratory distress syndrome in the newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P22.1",
+        "description": "Transient tachypnea of newborn",
+        "clinical_information": [
+          "Abnormal increase in respiratory rate in the newborn. It is self-limiting and attributed to the delayed fetal lung fluid clearance often in caesarean section delivery."
+        ],
+        "applicable_to": [
+          "Idiopathic tachypnea of newborn",
+          "Respiratory distress syndrome, type II",
+          "Wet lung syndrome"
+        ],
+        "approximate_synonyms": [
+          "Transient tachypnea (rapid breathing) of newborn",
+          "Transitory tachypnea of newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P22.8",
+        "description": "Other respiratory distress of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P22.9",
+        "description": "Respiratory distress of newborn, unspecified",
+        "clinical_information": [
+          "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, most frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+          "A condition of the newborn marked by dyspnea with cyanosis, heralded by such prodromal signs as dilatation of the alae nasi, expiratory grunt, and retraction of the suprasternal notch or costal margins, mostly frequently occurring in premature infants, children of diabetic mothers, and infants delivered by cesarean section, and sometimes with no apparent predisposing cause.",
+          "A condition of the newborn marked by dyspnea with cyanosis, most frequently occurring in premature infants, children of diabetic mothers and infants delivered by cesarean section, and sometimes with no predisposing cause."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P24",
+    "description": "Neonatal aspiration",
+    "clinical_information": [],
+    "applicable_to": [
+      "Codes also, if applicable, other types of pneumonias"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P24.0",
+        "description": "Meconium aspiration",
+        "clinical_information": [
+          "A condition caused by inhalation of meconium into the lung of fetus or newborn, usually due to vigorous respiratory movements during difficult parturition or respiratory system abnormalities. Meconium aspirate may block small airways leading to difficulties in pulmonary gas exchange and aspiration pneumonia.",
+          "A serious condition in which a newborn breathes a mixture of meconium (the first intestinal discharge) and amniotic fluid into the lungs around the time of delivery. Meconium aspiration syndrome occurs in 5-10 percent of births and typically occurs when the infant is stressed, as when the infant is past its due date."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P24.00",
+            "description": "Meconium aspiration without respiratory symptoms",
+            "clinical_information": [
+              "A condition caused by inhalation of meconium into the lung of fetus or newborn, usually due to vigorous respiratory movements during difficult parturition or respiratory system abnormalities. Meconium aspirate may block small airways leading to difficulties in pulmonary gas exchange and aspiration pneumonia.",
+              "A serious condition in which a newborn breathes a mixture of meconium (the first intestinal discharge) and amniotic fluid into the lungs around the time of delivery. Meconium aspiration syndrome occurs in 5-10 percent of births and typically occurs when the infant is stressed, as when the infant is past its due date."
+            ],
+            "applicable_to": [
+              "Meconium aspiration NOS"
+            ],
+            "approximate_synonyms": [
+              "Meconium aspiration",
+              "Neonatal aspiration of meconium"
+            ],
+            "children": []
+          },
+          {
+            "code": "P24.01",
+            "description": "Meconium aspiration with respiratory symptoms",
+            "clinical_information": [
+              "A condition caused by inhalation of meconium into the lung of fetus or newborn, usually due to vigorous respiratory movements during difficult parturition or respiratory system abnormalities. Meconium aspirate may block small airways leading to difficulties in pulmonary gas exchange and aspiration pneumonia.",
+              "A serious condition in which a newborn breathes a mixture of meconium (the first intestinal discharge) and amniotic fluid into the lungs around the time of delivery. Meconium aspiration syndrome occurs in 5-10 percent of births and typically occurs when the infant is stressed, as when the infant is past its due date."
+            ],
+            "applicable_to": [
+              "Meconium aspiration pneumonia",
+              "Meconium aspiration pneumonitis",
+              "Meconium aspiration syndrome NOS"
+            ],
+            "approximate_synonyms": [
+              "Meconium aspiration syndrome"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P24.00",
+        "description": "Meconium aspiration without respiratory symptoms",
+        "clinical_information": [
+          "A condition caused by inhalation of meconium into the lung of fetus or newborn, usually due to vigorous respiratory movements during difficult parturition or respiratory system abnormalities. Meconium aspirate may block small airways leading to difficulties in pulmonary gas exchange and aspiration pneumonia.",
+          "A serious condition in which a newborn breathes a mixture of meconium (the first intestinal discharge) and amniotic fluid into the lungs around the time of delivery. Meconium aspiration syndrome occurs in 5-10 percent of births and typically occurs when the infant is stressed, as when the infant is past its due date."
+        ],
+        "applicable_to": [
+          "Meconium aspiration NOS"
+        ],
+        "approximate_synonyms": [
+          "Meconium aspiration",
+          "Neonatal aspiration of meconium"
+        ],
+        "children": []
+      },
+      {
+        "code": "P24.01",
+        "description": "Meconium aspiration with respiratory symptoms",
+        "clinical_information": [
+          "A condition caused by inhalation of meconium into the lung of fetus or newborn, usually due to vigorous respiratory movements during difficult parturition or respiratory system abnormalities. Meconium aspirate may block small airways leading to difficulties in pulmonary gas exchange and aspiration pneumonia.",
+          "A serious condition in which a newborn breathes a mixture of meconium (the first intestinal discharge) and amniotic fluid into the lungs around the time of delivery. Meconium aspiration syndrome occurs in 5-10 percent of births and typically occurs when the infant is stressed, as when the infant is past its due date."
+        ],
+        "applicable_to": [
+          "Meconium aspiration pneumonia",
+          "Meconium aspiration pneumonitis",
+          "Meconium aspiration syndrome NOS"
+        ],
+        "approximate_synonyms": [
+          "Meconium aspiration syndrome"
+        ],
+        "children": []
+      },
+      {
+        "code": "P24.1",
+        "description": "Neonatal aspiration of (clear) amniotic fluid and mucus",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of liquor (amnii)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P24.10",
+            "description": "Neonatal aspiration of (clear) amniotic fluid and mucus without respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of amniotic fluid and mucus NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P24.11",
+            "description": "Neonatal aspiration of (clear) amniotic fluid and mucus with respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of amniotic fluid and mucus with pneumonia",
+              "Neonatal aspiration of amniotic fluid and mucus with pneumonitis"
+            ],
+            "approximate_synonyms": [
+              "Neonatal aspiration of clear amniotic fluid co-occurrent with respiratory symptoms",
+              "Neonatal aspiration of clear amniotic fluid with respiratory symptoms"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P24.10",
+        "description": "Neonatal aspiration of (clear) amniotic fluid and mucus without respiratory symptoms",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of amniotic fluid and mucus NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P24.11",
+        "description": "Neonatal aspiration of (clear) amniotic fluid and mucus with respiratory symptoms",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of amniotic fluid and mucus with pneumonia",
+          "Neonatal aspiration of amniotic fluid and mucus with pneumonitis"
+        ],
+        "approximate_synonyms": [
+          "Neonatal aspiration of clear amniotic fluid co-occurrent with respiratory symptoms",
+          "Neonatal aspiration of clear amniotic fluid with respiratory symptoms"
+        ],
+        "children": []
+      },
+      {
+        "code": "P24.2",
+        "description": "Neonatal aspiration of blood",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P24.20",
+            "description": "Neonatal aspiration of blood without respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of blood NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P24.21",
+            "description": "Neonatal aspiration of blood with respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of blood with pneumonia",
+              "Neonatal aspiration of blood with pneumonitis"
+            ],
+            "approximate_synonyms": [
+              "Neonatal aspiration of blood co-occurrent with respiratory symptoms"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P24.20",
+        "description": "Neonatal aspiration of blood without respiratory symptoms",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of blood NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P24.21",
+        "description": "Neonatal aspiration of blood with respiratory symptoms",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of blood with pneumonia",
+          "Neonatal aspiration of blood with pneumonitis"
+        ],
+        "approximate_synonyms": [
+          "Neonatal aspiration of blood co-occurrent with respiratory symptoms"
+        ],
+        "children": []
+      },
+      {
+        "code": "P24.3",
+        "description": "Neonatal aspiration of milk and regurgitated food",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal aspiration of stomach contents"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P24.30",
+            "description": "Neonatal aspiration of milk and regurgitated food without respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of milk and regurgitated food NOS"
+            ],
+            "approximate_synonyms": [
+              "Neonatal aspiration of milk and regurgitated food",
+              "Neonatal aspiration of milk or regurgitated food"
+            ],
+            "children": []
+          },
+          {
+            "code": "P24.31",
+            "description": "Neonatal aspiration of milk and regurgitated food with respiratory symptoms",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal aspiration of milk and regurgitated food with pneumonia",
+              "Neonatal aspiration of milk and regurgitated food with pneumonitis"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "P25",
+    "description": "Interstitial emphysema and related conditions originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P25.0",
+        "description": "Interstitial emphysema originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [
+          "Mediastinal emphysema"
+        ],
+        "approximate_synonyms": [
+          "Congenital lobar emphysema",
+          "Neonatal interstitial emphysema",
+          "Perinatal interstitial emphysema"
+        ],
+        "children": []
+      },
+      {
+        "code": "P25.1",
+        "description": "Pneumothorax originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P25.2",
+        "description": "Pneumomediastinum originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal pneumomediastinum"
+        ],
+        "children": []
+      },
+      {
+        "code": "P25.3",
+        "description": "Pneumopericardium originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal pneumopericardium",
+          "Perinatal pneumopericardium"
+        ],
+        "children": []
+      },
+      {
+        "code": "P25.8",
+        "description": "Other conditions related to interstitial emphysema originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P26",
+    "description": "Pulmonary hemorrhage originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [
+      "AIPHI",
+      "Acute idiopathic hemorrhage in infants over 28 days old"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P26.0",
+        "description": "Tracheobronchial hemorrhage originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal tracheobronchial hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P26.1",
+        "description": "Massive pulmonary hemorrhage originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal massive pulmonary hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P26.8",
+        "description": "Other pulmonary hemorrhages originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P26.9",
+        "description": "Unspecified pulmonary hemorrhage originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal pulmonary hemorrhage"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P27",
+    "description": "Chronic respiratory disease originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [
+      "Cardiorespiratory distress syndrome of newborn",
+      "Hyaline membrane disease",
+      "Idiopathic respiratory distress syndrome [IRDS or RDS] of newborn",
+      "Pulmonary hypoperfusion syndrome",
+      "Respiratory distress syndrome, type I"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P27.0",
+        "description": "Wilson-Mikity syndrome",
+        "clinical_information": [],
+        "applicable_to": [
+          "Pulmonary dysmaturity"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P27.1",
+        "description": "Bronchopulmonary dysplasia originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Bronchopulmonary dysplasia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P27.8",
+        "description": "Other chronic respiratory diseases originating in the perinatal period",
+        "clinical_information": [
+          "A chronic lung disease developed after oxygen inhalation therapy or mechanical ventilation (ventilation, mechanical) usually occurring in certain premature infants (infant, premature) or newborn infants with respiratory distress syndrome (respiratory distress syndrome, newborn). Histologically, it is characterized by the unusual abnormalities of the bronchioles, such as metaplasia, decrease in alveolar number, and formation of cysts.",
+          "A non-neoplastic lung disorder which develops in premature neonates who have been treated with oxygen and mechanical ventilation.",
+          "Chronic lung disease of infants, possibly related to oxygen toxicity or barotrauma, characterized by bronchiolar metaplasia and interstitial fibrosis."
+        ],
+        "applicable_to": [
+          "Congenital pulmonary fibrosis",
+          "Ventilator lung in newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P27.9",
+        "description": "Unspecified chronic respiratory disease originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Chronic respiratory disease in perinatal period",
+          "Neonatal chronic lung disease"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P28",
+    "description": "Other respiratory conditions originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P28.0",
+        "description": "Primary atelectasis of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Primary failure to expand terminal respiratory units",
+          "Pulmonary hypoplasia associated with short gestation",
+          "Pulmonary immaturity NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal primary atelectasis",
+          "Primary atelectasis, in perinatal period"
+        ],
+        "children": []
+      },
+      {
+        "code": "P28.1",
+        "description": "Other and unspecified atelectasis of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P28.10",
+            "description": "Unspecified atelectasis of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Atelectasis of newborn NOS"
+            ],
+            "approximate_synonyms": [
+              "Neonatal atelectasis",
+              "Perinatal atelectasis"
+            ],
+            "children": []
+          },
+          {
+            "code": "P28.11",
+            "description": "Resorption atelectasis without respiratory distress syndrome",
+            "clinical_information": [],
+            "applicable_to": [
+              "Cardiorespiratory distress syndrome of newborn",
+              "Hyaline membrane disease",
+              "Idiopathic respiratory distress syndrome [IRDS or RDS] of newborn",
+              "Pulmonary hypoperfusion syndrome",
+              "Respiratory distress syndrome, type I"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P28.19",
+            "description": "Other atelectasis of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Partial atelectasis of newborn",
+              "Secondary atelectasis of newborn"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P28.10",
+        "description": "Unspecified atelectasis of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Atelectasis of newborn NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal atelectasis",
+          "Perinatal atelectasis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P28.11",
+        "description": "Resorption atelectasis without respiratory distress syndrome",
+        "clinical_information": [],
+        "applicable_to": [
+          "Cardiorespiratory distress syndrome of newborn",
+          "Hyaline membrane disease",
+          "Idiopathic respiratory distress syndrome [IRDS or RDS] of newborn",
+          "Pulmonary hypoperfusion syndrome",
+          "Respiratory distress syndrome, type I"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P28.19",
+        "description": "Other atelectasis of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Partial atelectasis of newborn",
+          "Secondary atelectasis of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P28.2",
+        "description": "Cyanotic attacks of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sleep apnea of newborn NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal cyanotic attacks",
+          "Perinatal cyanotic attacks"
+        ],
+        "children": []
+      },
+      {
+        "code": "P28.3",
+        "description": "Primary sleep apnea of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sleep apnea of newborn NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal primary apnea",
+          "Primary apnea in the newborn"
+        ],
+        "children": [
+          {
+            "code": "P28.30",
+            "description": "Primary sleep apnea of newborn, unspecified",
+            "clinical_information": [],
+            "applicable_to": [
+              "Transient oxygen desaturation spells of newborn during sleep"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P28.31",
+            "description": "Primary central sleep apnea of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Sleep apnea of newborn NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P28.32",
+            "description": "Primary obstructive sleep apnea of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Sleep apnea of newborn NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P28.33",
+            "description": "Primary mixed sleep apnea of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Sleep apnea of newborn NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P28.39",
+            "description": "Other primary sleep apnea of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Sleep apnea of newborn NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P28.30",
+        "description": "Primary sleep apnea of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Transient oxygen desaturation spells of newborn during sleep"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P28.31",
+        "description": "Primary central sleep apnea of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sleep apnea of newborn NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P28.32",
+        "description": "Primary obstructive sleep apnea of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sleep apnea of newborn NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P29",
+    "description": "Cardiovascular disorders originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P29.0",
+        "description": "Neonatal cardiac failure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P29.1",
+        "description": "Neonatal cardiac dysrhythmia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P29.11",
+            "description": "Neonatal tachycardia",
+            "clinical_information": [],
+            "applicable_to": [
+              "Rapid heart beat",
+              "Sinoauricular tachycardia NOS",
+              "Sinus [sinusal] tachycardia NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P29.12",
+            "description": "Neonatal bradycardia",
+            "clinical_information": [],
+            "applicable_to": [
+              "Sinoatrial bradycardia",
+              "Sinus bradycardia",
+              "Slow heart beat",
+              "Vagal bradycardia"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P29.11",
+        "description": "Neonatal tachycardia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Rapid heart beat",
+          "Sinoauricular tachycardia NOS",
+          "Sinus [sinusal] tachycardia NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P29.12",
+        "description": "Neonatal bradycardia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Sinoatrial bradycardia",
+          "Sinus bradycardia",
+          "Slow heart beat",
+          "Vagal bradycardia"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P29.2",
+        "description": "Neonatal hypertension",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal high blood pressure"
+        ],
+        "children": []
+      },
+      {
+        "code": "P29.3",
+        "description": "Persistent fetal circulation",
+        "clinical_information": [
+          "A cardiopulmonary syndrome characterized by hypoxemia due to increased pulmonary vascular resistance and subsequent right-to-left shunting of the blood through the foramen ovale and ductus arteriosus.",
+          "A syndrome of persistent pulmonary hypertension in the newborn infant (infant, newborn) without demonstrable heart diseases. This neonatal condition can be caused by severe pulmonary vasoconstriction (reactive type), hypertrophy of pulmonary arterial muscle (hypertrophic type), or abnormally developed pulmonary arterioles (hypoplastic type). The newborn patient exhibits cyanosis and acidosis due to the persistence of fetal circulatory pattern of right-to-left shunting of blood through a patent ductus arteriosus (ductus arteriosus, patent) and at times a patent foramen ovale (foramen ovale, patent)."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Persistent pulmonary hypertension of the newborn",
+          "Pulmonary hypertension of infant"
+        ],
+        "children": [
+          {
+            "code": "P29.30",
+            "description": "Pulmonary hypertension of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Persistent pulmonary hypertension of newborn"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P29.38",
+            "description": "Other persistent fetal circulation",
+            "clinical_information": [],
+            "applicable_to": [
+              "Delayed closure of ductus arteriosus"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P29.30",
+        "description": "Pulmonary hypertension of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Persistent pulmonary hypertension of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P29.38",
+        "description": "Other persistent fetal circulation",
+        "clinical_information": [],
+        "applicable_to": [
+          "Delayed closure of ductus arteriosus"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P29.4",
+        "description": "Transient myocardial ischemia in newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Transient myocardial ischemia of newborn",
+          "Transient neonatal myocardial ischemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P29.8",
+        "description": "Other cardiovascular disorders originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P29.81",
+            "description": "Cardiac arrest of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Neonatal cardiac arrest"
+            ],
+            "children": []
+          },
+          {
+            "code": "P29.89",
+            "description": "Other cardiovascular disorders originating in the perinatal period",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "P35",
+    "description": "Congenital viral diseases",
+    "clinical_information": [],
+    "applicable_to": [
+      "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P35.0",
+        "description": "Congenital rubella syndrome",
+        "clinical_information": [
+          "Transplacental infection of the fetus with rubella usually in the first trimester of pregnancy, as a consequence of maternal infection, resulting in various developmental abnormalities in the newborn infant. They include cardiac and ocular lesions, deafness, microcephaly, mental retardation, and generalized growth retardation. (from Dorland, 27th ed)"
+        ],
+        "applicable_to": [
+          "Congenital rubella pneumonitis"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P35.1",
+        "description": "Congenital cytomegalovirus infection",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P35.2",
+        "description": "Congenital herpesviral [herpes simplex] infection",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Congenital herpes simplex",
+          "Congenital neonatal herpes simplex virus infection"
+        ],
+        "children": []
+      },
+      {
+        "code": "P35.3",
+        "description": "Congenital viral hepatitis",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P35.4",
+        "description": "Congenital Zika virus disease",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P35.8",
+        "description": "Other congenital viral diseases",
+        "clinical_information": [],
+        "applicable_to": [
+          "Congenital varicella [chickenpox]"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P35.9",
+        "description": "Congenital viral disease, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Congenital viral disease",
+          "Congenital viral infection"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P36",
+    "description": "Bacterial sepsis of newborn",
+    "clinical_information": [],
+    "applicable_to": [
+      "Infection with associated acute organ dysfunction",
+      "Sepsis with acute organ dysfunction",
+      "Sepsis with multiple organ dysfunction",
+      "Systemic inflammatory response syndrome due to infectious process with acute organ dysfunction"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P36.0",
+        "description": "Sepsis of newborn due to streptococcus, group B",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Sepsis of newborn due to goup b streptococcus",
+          "Sepsis of newborn due to group b streptococcus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P36.1",
+        "description": "Sepsis of newborn due to other and unspecified streptococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P36.10",
+            "description": "Sepsis of newborn due to unspecified streptococci",
+            "clinical_information": [],
+            "applicable_to": [
+              "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+            ],
+            "approximate_synonyms": [
+              "Neonatal sepsis due to strep",
+              "Neonatal sepsis due to streptococcus"
+            ],
+            "children": []
+          },
+          {
+            "code": "P36.19",
+            "description": "Sepsis of newborn due to other streptococci",
+            "clinical_information": [],
+            "applicable_to": [
+              "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P36.10",
+        "description": "Sepsis of newborn due to unspecified streptococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal sepsis due to strep",
+          "Neonatal sepsis due to streptococcus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P36.19",
+        "description": "Sepsis of newborn due to other streptococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P36.2",
+        "description": "Sepsis of newborn due to Staphylococcus aureus",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal sepsis due to staph aureus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P36.3",
+        "description": "Sepsis of newborn due to other and unspecified staphylococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P36.30",
+            "description": "Sepsis of newborn due to unspecified staphylococci",
+            "clinical_information": [],
+            "applicable_to": [
+              "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+            ],
+            "approximate_synonyms": [
+              "Neonatal sepsis due to staph",
+              "Neonatal sepsis due to staphylococcus"
+            ],
+            "children": []
+          },
+          {
+            "code": "P36.39",
+            "description": "Sepsis of newborn due to other staphylococci",
+            "clinical_information": [],
+            "applicable_to": [
+              "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P36.30",
+        "description": "Sepsis of newborn due to unspecified staphylococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal sepsis due to staph",
+          "Neonatal sepsis due to staphylococcus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P36.39",
+        "description": "Sepsis of newborn due to other staphylococci",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P36.4",
+        "description": "Sepsis of newborn due to Escherichia coli",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal sepsis due to e coli"
+        ],
+        "children": []
+      },
+      {
+        "code": "P36.5",
+        "description": "Sepsis of newborn due to anaerobes",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal sepsis due to anaerobes"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P39",
+    "description": "Other infections specific to the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [
+      "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P39.0",
+        "description": "Neonatal infective mastitis",
+        "clinical_information": [],
+        "applicable_to": [
+          "Noninfective mastitis of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P39.1",
+        "description": "Neonatal conjunctivitis and dacryocystitis",
+        "clinical_information": [
+          "Acute conjunctival inflammation in the newborn, usually caused by maternal gonococcal infection. The causative agent is neisseria gonorrhoeae. The baby's eyes are contaminated during passage through the birth canal."
+        ],
+        "applicable_to": [
+          "Neonatal chlamydial conjunctivitis",
+          "Ophthalmia neonatorum NOS"
+        ],
+        "approximate_synonyms": [
+          "Bilateral neonatal conjunctivitis",
+          "Left neonatal conjunctivitis",
+          "Neonatal chlamydial conjunctivitis",
+          "Neonatal conjunctivitis",
+          "Neonatal conjunctivitis, both eyes",
+          "Right neonatal conjunctivitis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P39.2",
+        "description": "Intra-amniotic infection affecting newborn, not elsewhere classified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P39.3",
+        "description": "Neonatal urinary tract infection",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P39.4",
+        "description": "Neonatal skin infection",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal pyoderma"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P39.8",
+        "description": "Other specified infections specific to the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Congenital varicella infection",
+          "Neonatal varicella"
+        ],
+        "children": []
+      },
+      {
+        "code": "P39.9",
+        "description": "Infection specific to the perinatal period, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Infections acquired in utero, during birth via the umbilicus, or during the first 28 days after birth"
+        ],
+        "approximate_synonyms": [
+          "Neonatal infection",
+          "Neonatal infectious disorder"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P50",
+    "description": "Newborn affected by intrauterine (fetal) blood loss",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P50.0",
+        "description": "Newborn affected by intrauterine (fetal) blood loss from vasa previa",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Newborn affected by intrauterine blood loss from vasa previa"
+        ],
+        "children": []
+      },
+      {
+        "code": "P50.1",
+        "description": "Newborn affected by intrauterine (fetal) blood loss from ruptured cord",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P50.2",
+        "description": "Newborn affected by intrauterine (fetal) blood loss from placenta",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Newborn affected by intrauterine blood loss from placenta"
+        ],
+        "children": []
+      },
+      {
+        "code": "P50.3",
+        "description": "Newborn affected by hemorrhage into co-twin",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P50.4",
+        "description": "Newborn affected by hemorrhage into maternal circulation",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P50.5",
+        "description": "Newborn affected by intrauterine (fetal) blood loss from cut end of co-twin's cord",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P50.8",
+        "description": "Newborn affected by other intrauterine (fetal) blood loss",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P50.9",
+        "description": "Newborn affected by intrauterine (fetal) blood loss, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by fetal hemorrhage NOS"
+        ],
+        "approximate_synonyms": [
+          "Newborn affected by fetal blood loss",
+          "Newborn affected by intrauterine blood loss"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P51",
+    "description": "Umbilical hemorrhage of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P51.0",
+        "description": "Massive umbilical hemorrhage of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P51.8",
+        "description": "Other umbilical hemorrhages of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Slipped umbilical ligature NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P51.9",
+        "description": "Umbilical hemorrhage of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal umbilical hemorrhage",
+          "Umbilical hemorrhage after birth"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P52",
+    "description": "Intracranial nontraumatic hemorrhage of newborn",
+    "clinical_information": [],
+    "applicable_to": [
+      "Acidemia of newborn",
+      "Acidosis of newborn",
+      "Anoxia of newborn NOS",
+      "Asphyxia of newborn NOS",
+      "Hypercapnia of newborn",
+      "Hypoxemia of newborn",
+      "Hypoxia of newborn NOS",
+      "Mixed metabolic and respiratory acidosis of newborn"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P52.9",
+        "description": "Intracranial (nontraumatic) hemorrhage of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Intracranial nontraumatic hemorrhage of fetus and newborn",
+          "Neonatal nontraumatic intracranial hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.0",
+        "description": "Intraventricular (nontraumatic) hemorrhage, grade 1, of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Subependymal hemorrhage (without intraventricular extension)",
+          "Bleeding into germinal matrix"
+        ],
+        "approximate_synonyms": [
+          "Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn",
+          "Neonatal nontraumatic intraventricular hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.1",
+        "description": "Intraventricular (nontraumatic) hemorrhage, grade 2, of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Subependymal hemorrhage with intraventricular extension",
+          "Bleeding into ventricle"
+        ],
+        "approximate_synonyms": [
+          "Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn",
+          "Neonatal nontraumatic intraventricular hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.2",
+        "description": "Intraventricular (nontraumatic) hemorrhage, grade 3 and grade 4, of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P52.21",
+            "description": "Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Subependymal hemorrhage with intraventricular extension with enlargement of ventricle"
+            ],
+            "approximate_synonyms": [
+              "Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn",
+              "Neonatal nontraumatic intraventricular hemorrhage"
+            ],
+            "children": []
+          },
+          {
+            "code": "P52.22",
+            "description": "Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Bleeding into cerebral cortex",
+              "Subependymal hemorrhage with intracerebral extension"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P52.21",
+        "description": "Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Subependymal hemorrhage with intraventricular extension with enlargement of ventricle"
+        ],
+        "approximate_synonyms": [
+          "Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn",
+          "Neonatal nontraumatic intraventricular hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.22",
+        "description": "Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Bleeding into cerebral cortex",
+          "Subependymal hemorrhage with intracerebral extension"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P52.3",
+        "description": "Unspecified intraventricular (nontraumatic) hemorrhage of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Intraventricular hemorrhage in premature infant",
+          "Intraventricular hemorrhage of prematurity",
+          "Neonatal non-traumatic intraventricular hemorrhage",
+          "Neonatal nontraumatic intraventricular hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.4",
+        "description": "Intracerebral (nontraumatic) hemorrhage of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal non-traumatic intracerebral hemorrhage",
+          "Neonatal nontraumatic intracerebral hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.5",
+        "description": "Subarachnoid (nontraumatic) hemorrhage of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal nontraumatic subarachnoid hemorrhage"
+        ],
+        "children": []
+      },
+      {
+        "code": "P52.6",
+        "description": "Cerebellar (nontraumatic) and posterior fossa hemorrhage of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P52.8",
+        "description": "Other intracranial (nontraumatic) hemorrhages of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P53",
+    "description": "Hemorrhagic disease of newborn",
+    "clinical_information": [
+      "Neonatal nasogastric or intracranial hemorrhage caused by vitamin k deficiency.",
+      "Self-limited hemorrhagic disorder of the first days of life, caused by a deficiency of the vitamin k-dependent blood coagulation factors ii, vii, ix, and x."
+    ],
+    "applicable_to": [
+      "Vitamin K deficiency of newborn"
+    ],
+    "approximate_synonyms": [],
+    "children": []
+  },
+  {
+    "code": "P55",
+    "description": "Hemolytic disease of newborn",
+    "clinical_information": [
+      "A condition characterized by the abnormal presence of erythroblasts in the circulation of the fetus or newborns. It is a disorder due to blood group incompatibility, such as the maternal alloimmunization by fetal antigen rh factors leading to hemolysis of erythrocytes, hemolytic anemia (anemia, hemolytic), general edema (hydrops fetalis), and severe jaundice in newborn.",
+      "Hemolytic anemia of the fetus or newborn caused by transplacental transmission of maternally formed antibody, usually secondary to an incompatibility between the blood groups of mother and offspring."
+    ],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P55.0",
+        "description": "Rh isoimmunization of newborn",
+        "clinical_information": [
+          "A disorder caused when there is a rh-factor blood-type incompatibility between the mother and fetus, and the mother's immune system forms antibodies that attack the red blood cells of her unborn child. This disorder can only occur if the mother is rh-negative and the fetus is rh-positive."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hemolytic disease of fetus or newborn due to rhd isoimmunization",
+          "Rh hemolytic disease, fetus or newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P55.1",
+        "description": "ABO isoimmunization of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Abo hemolytic disease, fetus",
+          "Abo hemolytic disease, newborn",
+          "Fetal abo hemolytic disease",
+          "Hemolytic disease of fetus due to abo immunization",
+          "Hemolytic disease of newborn due to abo immunization"
+        ],
+        "children": []
+      },
+      {
+        "code": "P55.8",
+        "description": "Other hemolytic diseases of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P55.9",
+        "description": "Hemolytic disease of newborn, unspecified",
+        "clinical_information": [
+          "A condition characterized by the abnormal presence of erythroblasts in the circulation of the fetus or newborns. It is a disorder due to blood group incompatibility, such as the maternal alloimmunization by fetal antigen rh factors leading to hemolysis of erythrocytes, hemolytic anemia (anemia, hemolytic), general edema (hydrops fetalis), and severe jaundice in newborn.",
+          "Hemolytic anemia of the fetus or newborn caused by transplacental transmission of maternally formed antibody, usually secondary to an incompatibility between the blood groups of mother and offspring."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hemolytic disease of fetus or newborn due to isoimmunization",
+          "Isoimmune hemolytic disease, fetus or newborn",
+          "Neonatal anemia",
+          "Newborn affected by late anemia"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P56",
+    "description": "Hydrops fetalis due to hemolytic disease",
+    "clinical_information": [],
+    "applicable_to": [
+      "Hydrops fetalis NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P56.0",
+        "description": "Hydrops fetalis due to isoimmunization",
+        "clinical_information": [],
+        "applicable_to": [
+          "Alpha thalassemia major",
+          "Hemoglobin H Constant Spring",
+          "Hemoglobin H disease",
+          "Hydrops fetalis due to alpha thalassemia",
+          "Severe alpha thalassemia",
+          "Triple gene defect alpha thalassemia"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P56.9",
+        "description": "Hydrops fetalis due to other and unspecified hemolytic disease",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P56.90",
+            "description": "Hydrops fetalis due to unspecified hemolytic disease",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P56.99",
+            "description": "Hydrops fetalis due to other hemolytic disease",
+            "clinical_information": [],
+            "applicable_to": [
+              "Alpha thalassemia major",
+              "Hemoglobin H Constant Spring",
+              "Hemoglobin H disease",
+              "Hydrops fetalis due to alpha thalassemia",
+              "Severe alpha thalassemia",
+              "Triple gene defect alpha thalassemia"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P56.90",
+        "description": "Hydrops fetalis due to unspecified hemolytic disease",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P56.99",
+        "description": "Hydrops fetalis due to other hemolytic disease",
+        "clinical_information": [],
+        "applicable_to": [
+          "Alpha thalassemia major",
+          "Hemoglobin H Constant Spring",
+          "Hemoglobin H disease",
+          "Hydrops fetalis due to alpha thalassemia",
+          "Severe alpha thalassemia",
+          "Triple gene defect alpha thalassemia"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P57",
+    "description": "Kernicterus",
+    "clinical_information": [
+      "A rare neurologic disorder occurring in infants with jaundice. It results from brain damage by existing high levels of unconjugated-indirect bilirubin.",
+      "A term used pathologically to describe bilirubin staining of the basal ganglia; brain stem; and cerebellum and clinically to describe a syndrome associated with hyperbilirubinemia. Clinical features include athetosis, muscle spasticity or hypotonia, impaired vertical gaze, and deafness. Nonconjugated bilirubin enters the brain and acts as a neurotoxin, often in association with conditions that impair the blood-brain barrier (e.g., sepsis). This condition occurs primarily in neonates (infant, newborn), but may rarely occur in adults. (menkes, textbook of child neurology, 5th ed, p613)",
+      "Brain disorder associated with high levels of bilrubin; clinical features include athetosis, muscle spasticity or hypotonia, impaired vertical gaze, and deafness; nonconjugated bilirubin enters the brain and acts as a neurotoxin, often in association with conditions that impair the blood-brain barrier; this condition occurs primarily in neonates with perinatal blood incompatibilities, but may rarely occur in adults."
+    ],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P57.0",
+        "description": "Kernicterus due to isoimmunization",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal kernicterus due to isoimmunization"
+        ],
+        "children": []
+      },
+      {
+        "code": "P57.8",
+        "description": "Other specified kernicterus",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P57.9",
+        "description": "Kernicterus, unspecified",
+        "clinical_information": [
+          "A rare neurologic disorder occurring in infants with jaundice. It results from brain damage by existing high levels of unconjugated-indirect bilirubin.",
+          "A term used pathologically to describe bilirubin staining of the basal ganglia; brain stem; and cerebellum and clinically to describe a syndrome associated with hyperbilirubinemia. Clinical features include athetosis, muscle spasticity or hypotonia, impaired vertical gaze, and deafness. Nonconjugated bilirubin enters the brain and acts as a neurotoxin, often in association with conditions that impair the blood-brain barrier (e.g., sepsis). This condition occurs primarily in neonates (infant, newborn), but may rarely occur in adults. (menkes, textbook of child neurology, 5th ed, p613)",
+          "Brain disorder associated with high levels of bilrubin; clinical features include athetosis, muscle spasticity or hypotonia, impaired vertical gaze, and deafness; nonconjugated bilirubin enters the brain and acts as a neurotoxin, often in association with conditions that impair the blood-brain barrier; this condition occurs primarily in neonates with perinatal blood incompatibilities, but may rarely occur in adults."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Kernicterus of newborn",
+          "Neonatal kernicterus"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P58",
+    "description": "Neonatal jaundice due to other excessive hemolysis",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P58.0",
+        "description": "Neonatal jaundice due to bruising",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Fetal or neonatal jaundice from bruising",
+          "Neonatal jaundice from bruising"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.1",
+        "description": "Neonatal jaundice due to bleeding",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Perinatal jaundice from bleeding"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.2",
+        "description": "Neonatal jaundice due to infection",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Fetal or neonatal jaundice from infection"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.3",
+        "description": "Neonatal jaundice due to polycythemia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Fetal or neonatal jaundice from polycythemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.4",
+        "description": "Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P58.41",
+            "description": "Neonatal jaundice due to drugs or toxins transmitted from mother",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Fetal or neonatal jaundice from drugs and/or toxins transmitted from mother"
+            ],
+            "children": []
+          },
+          {
+            "code": "P58.42",
+            "description": "Neonatal jaundice due to drugs or toxins given to newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P58.41",
+        "description": "Neonatal jaundice due to drugs or toxins transmitted from mother",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Fetal or neonatal jaundice from drugs and/or toxins transmitted from mother"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.42",
+        "description": "Neonatal jaundice due to drugs or toxins given to newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P58.5",
+        "description": "Neonatal jaundice due to swallowed maternal blood",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Perinatal jaundice from swallowed maternal blood"
+        ],
+        "children": []
+      },
+      {
+        "code": "P58.8",
+        "description": "Neonatal jaundice due to other specified excessive hemolysis",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P58.9",
+        "description": "Neonatal jaundice due to excessive hemolysis, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal jaundice due to excessive hemolysis",
+          "Perinatal jaundice from excessive hemolysis"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P60",
+    "description": "Disseminated intravascular coagulation of newborn",
+    "clinical_information": [],
+    "applicable_to": [
+      "Defibrination syndrome of newborn"
+    ],
+    "approximate_synonyms": [
+      "Disseminated intravascular coagulation in newborn",
+      "Disseminated intravascular coagulation, neonatal"
+    ],
+    "children": []
+  },
+  {
+    "code": "P61",
+    "description": "Other perinatal hematological disorders",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P61.0",
+        "description": "Transient neonatal thrombocytopenia",
+        "clinical_information": [
+          "Thrombocytopenia that develops in neonates. It is caused by the development of antibodies against platelet antigens and may lead to hemorrhage."
+        ],
+        "applicable_to": [
+          "Neonatal thrombocytopenia due to exchange transfusion",
+          "Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia",
+          "Neonatal thrombocytopenia due to isoimmunization"
+        ],
+        "approximate_synonyms": [
+          "Neonatal thrombocytopenia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.1",
+        "description": "Polycythemia neonatorum",
+        "clinical_information": [],
+        "applicable_to": [
+          "Acquired polycythemia",
+          "Emotional polycythemia",
+          "Erythrocytosis NOS",
+          "Hypoxemic polycythemia",
+          "Nephrogenous polycythemia",
+          "Polycythemia due to erythropoietin",
+          "Polycythemia due to fall in plasma volume",
+          "Polycythemia due to high altitude",
+          "Polycythemia due to stress",
+          "Polycythemia NOS",
+          "Relative polycythemia"
+        ],
+        "approximate_synonyms": [
+          "Neonatal polycythemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.2",
+        "description": "Anemia of prematurity",
+        "clinical_information": [
+          "A blood disorder characterized by low hemoglobin levels in premature neonates that usually spontaneously resolves within 3-6 months post birth. A combination of factors including the transition from the liver to the bone marrow for erythropoiesis in a neonate, blood loss experienced during delivery, the shortened life span of fetal blood cells, and an acclimation to a relatively hyperoxic environment outside the womb can predispose a neonate to this condition."
+        ],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P61.3",
+        "description": "Congenital anemia from fetal blood loss",
+        "clinical_information": [],
+        "applicable_to": [
+          "Posthemorrhagic anemia (chronic)"
+        ],
+        "approximate_synonyms": [
+          "Anemia following fetal blood loss",
+          "Congenital anemia due to fetal blood loss"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.4",
+        "description": "Other congenital anemias, not elsewhere classified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Congenital anemia NOS"
+        ],
+        "approximate_synonyms": [
+          "Anemia, congenital",
+          "Congenital anemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.5",
+        "description": "Transient neonatal neutropenia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Congenital neutropenia",
+          "Infantile genetic agranulocytosis",
+          "Kostmann's disease"
+        ],
+        "approximate_synonyms": [
+          "Isoimmune neutropenia",
+          "Neutropenia, isoimmune"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.6",
+        "description": "Other transient neonatal disorders of coagulation",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal coagulation disorder"
+        ],
+        "children": []
+      },
+      {
+        "code": "P61.8",
+        "description": "Other specified perinatal hematological disorders",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P61.9",
+        "description": "Perinatal hematological disorder, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P70",
+    "description": "Transitory disorders of carbohydrate metabolism specific to newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P70.0",
+        "description": "Syndrome of infant of mother with gestational diabetes",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn (with hypoglycemia) affected by maternal gestational diabetes"
+        ],
+        "approximate_synonyms": [
+          "Infant of mother with gestational diabetes",
+          "Newborn affected by maternal gestational diabetes mellitus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P70.1",
+        "description": "Syndrome of infant of a diabetic mother",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn (with hypoglycemia) affected by maternal (pre-existing) diabetes mellitus"
+        ],
+        "approximate_synonyms": [
+          "Infant of diabetic mother",
+          "Newborn affected by maternal diabetes mellitus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P70.2",
+        "description": "Neonatal diabetes mellitus",
+        "clinical_information": [
+          "Transient or permanent diabetes mellitus that affects neonates. It is caused by the inability of the pancreas to secrete sufficient insulin in response to elevated levels of glucose in the blood. The transient diabetes mellitus lasts for weeks or months and may return in adolescence or in adulthood. The permanent diabetes mellitus does not disappear and is caused by mutations in the kcnj11, gck, and ipf1 genes."
+        ],
+        "applicable_to": [
+          "Accessory pancreas",
+          "Congenital malformation of pancreas or pancreatic duct NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P70.3",
+        "description": "Iatrogenic neonatal hypoglycemia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P70.4",
+        "description": "Other neonatal hypoglycemia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Transitory neonatal hypoglycemia"
+        ],
+        "approximate_synonyms": [
+          "Neonatal hypoglycemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P70.8",
+        "description": "Other transitory disorders of carbohydrate metabolism of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P70.9",
+        "description": "Transitory disorder of carbohydrate metabolism of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P71",
+    "description": "Transitory neonatal disorders of calcium and magnesium metabolism",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P71.0",
+        "description": "Cow's milk hypocalcemia in newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cow's milk hypocalcemia",
+          "Cow's milk hypocalcemia of newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P71.1",
+        "description": "Other neonatal hypocalcemia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal hypocalcemia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P71.2",
+        "description": "Neonatal hypomagnesemia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Abnormal blood level of cobalt",
+          "Abnormal blood level of copper",
+          "Abnormal blood level of iron",
+          "Abnormal blood level of magnesium",
+          "Abnormal blood level of mineral NEC",
+          "Abnormal blood level of zinc"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P71.3",
+        "description": "Neonatal tetany without calcium or magnesium deficiency",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal tetany NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P71.4",
+        "description": "Transitory neonatal hypoparathyroidism",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal transient hypoparathyroidism"
+        ],
+        "children": []
+      },
+      {
+        "code": "P71.8",
+        "description": "Other transitory neonatal disorders of calcium and magnesium metabolism",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P71.9",
+        "description": "Transitory neonatal disorder of calcium and magnesium metabolism, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P72",
+    "description": "Other transitory neonatal endocrine disorders",
+    "clinical_information": [],
+    "applicable_to": [
+      "Congenital parenchymatous goiter (nontoxic)",
+      "Congenital goiter (nontoxic) NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P72.0",
+        "description": "Neonatal goiter, not elsewhere classified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Transitory congenital goiter with normal functioning"
+        ],
+        "approximate_synonyms": [
+          "Neonatal goiter"
+        ],
+        "children": []
+      },
+      {
+        "code": "P72.1",
+        "description": "Transitory neonatal hyperthyroidism",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal thyrotoxicosis"
+        ],
+        "approximate_synonyms": [
+          "Neonatal thyrotoxicosis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P72.2",
+        "description": "Other transitory neonatal disorders of thyroid function, not elsewhere classified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Transitory neonatal hypothyroidism"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P72.8",
+        "description": "Other specified transitory neonatal endocrine disorders",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P72.9",
+        "description": "Transitory neonatal endocrine disorder, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal transient endocrine disorder",
+          "Transitory neonatal endocrine and/or metabolic disorder"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P74",
+    "description": "Other transitory neonatal electrolyte and metabolic disturbances",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P74.0",
+        "description": "Late metabolic acidosis of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Acidemia of newborn",
+          "Acidosis of newborn",
+          "Anoxia of newborn NOS",
+          "Asphyxia of newborn NOS",
+          "Hypercapnia of newborn",
+          "Hypoxemia of newborn",
+          "Hypoxia of newborn NOS",
+          "Mixed metabolic and respiratory acidosis of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P74.1",
+        "description": "Dehydration of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal dehydration"
+        ],
+        "children": []
+      },
+      {
+        "code": "P74.2",
+        "description": "Disturbances of sodium balance of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal sodium balance disturbance"
+        ],
+        "children": [
+          {
+            "code": "P74.21",
+            "description": "Hypernatremia of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P74.22",
+            "description": "Hyponatremia of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P74.21",
+        "description": "Hypernatremia of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P74.22",
+        "description": "Hyponatremia of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P74.3",
+        "description": "Disturbances of potassium balance of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal potassium balance disturbance"
+        ],
+        "children": [
+          {
+            "code": "P74.31",
+            "description": "Hyperkalemia of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P74.32",
+            "description": "Hypokalemia of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P74.31",
+        "description": "Hyperkalemia of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P74.32",
+        "description": "Hypokalemia of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P74.4",
+        "description": "Other transitory electrolyte disturbances of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal transient electrolyte disturbances",
+          "Transitory neonatal electrolyte disturbance"
+        ],
+        "children": [
+          {
+            "code": "P74.41",
+            "description": "Alkalosis of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Hyperbicarbonatemia"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P74.42",
+            "description": "Disturbances of chlorine balance of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "P74.421",
+                "description": "Hyperchloremia of newborn",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Hyperchloremic metabolic acidosis"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "P74.422",
+                "description": "Hypochloremia of newborn",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "P74.421",
+            "description": "Hyperchloremia of newborn",
+            "clinical_information": [],
+            "applicable_to": [
+              "Hyperchloremic metabolic acidosis"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P74.422",
+            "description": "Hypochloremia of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P74.49",
+            "description": "Other transitory electrolyte disturbance of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P74.41",
+        "description": "Alkalosis of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Hyperbicarbonatemia"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P76",
+    "description": "Other intestinal obstruction of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P76.0",
+        "description": "Meconium plug syndrome",
+        "clinical_information": [
+          "A transient colonic dysfunction in the newborn characterized by the delayed passage of meconium and associated intestinal dilatation."
+        ],
+        "applicable_to": [
+          "Meconium ileus NOS"
+        ],
+        "approximate_synonyms": [
+          "Meconium ileus",
+          "Meconium plug"
+        ],
+        "children": []
+      },
+      {
+        "code": "P76.1",
+        "description": "Transitory ileus of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Aganglionosis",
+          "Congenital (aganglionic) megacolon"
+        ],
+        "approximate_synonyms": [
+          "Neonatal transient ileus"
+        ],
+        "children": []
+      },
+      {
+        "code": "P76.2",
+        "description": "Intestinal obstruction due to inspissated milk",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Intestinal obstruction by inspissated milk in newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P76.8",
+        "description": "Other specified intestinal obstruction of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P76.9",
+        "description": "Intestinal obstruction of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal intestinal obstruction"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P77",
+    "description": "Necrotizing enterocolitis of newborn",
+    "clinical_information": [
+      "A serious, life-threatening disorder characterized by necrotic changes affecting portions of the small and large intestine. It is usually seen in neonates, particularly premature infants. Signs and symptoms include abdominal distention and tenderness, intestinal bleeding and ileus. It may lead to cardiovascular collapse and shock.",
+      "Enterocolitis with extensive ulceration (ulcer) and necrosis. It is observed primarily in low birth weight infant.",
+      "Extensive ulceration and necrosis of the ileum and colon in premature infants in the neonatal period; possibly due to perinatal intestinal ischemia and bacterial invasion."
+    ],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P77.1",
+        "description": "Stage 1 necrotizing enterocolitis in newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Necrotizing enterocolitis without pneumatosis, without perforation"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P77.2",
+        "description": "Stage 2 necrotizing enterocolitis in newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Necrotizing enterocolitis with pneumatosis, without perforation"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P77.3",
+        "description": "Stage 3 necrotizing enterocolitis in newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Necrotizing enterocolitis with perforation",
+          "Necrotizing enterocolitis with pneumatosis and perforation"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P77.9",
+        "description": "Necrotizing enterocolitis in newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Necrotizing enterocolitis in newborn, NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal necrotizing enterocolitis"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P78",
+    "description": "Other perinatal digestive system disorders",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P78.2",
+        "description": "Neonatal hematemesis and melena due to swallowed maternal blood",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hematemesis and/or melena due to swallowed maternal blood",
+          "Neonatal swallowed blood syndrome"
+        ],
+        "children": []
+      },
+      {
+        "code": "P78.0",
+        "description": "Perinatal intestinal perforation",
+        "clinical_information": [],
+        "applicable_to": [
+          "Meconium peritonitis"
+        ],
+        "approximate_synonyms": [
+          "Congenital gastric perforation",
+          "Neonatal intestinal perforation"
+        ],
+        "children": []
+      },
+      {
+        "code": "P78.1",
+        "description": "Other neonatal peritonitis",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal peritonitis NOS"
+        ],
+        "approximate_synonyms": [
+          "Neonatal peritonitis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P78.3",
+        "description": "Noninfective neonatal diarrhea",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal diarrhea NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P78.8",
+        "description": "Other specified perinatal digestive system disorders",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P78.81",
+            "description": "Congenital cirrhosis (of liver)",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P78.82",
+            "description": "Peptic ulcer of newborn",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Neonatal peptic ulcer"
+            ],
+            "children": []
+          },
+          {
+            "code": "P78.83",
+            "description": "Newborn esophageal reflux",
+            "clinical_information": [],
+            "applicable_to": [
+              "Neonatal esophageal reflux"
+            ],
+            "approximate_synonyms": [
+              "Neonatal esophageal reflux",
+              "Neonatal gastroesophageal reflux"
+            ],
+            "children": []
+          },
+          {
+            "code": "P78.84",
+            "description": "Gestational alloimmune liver disease",
+            "clinical_information": [],
+            "applicable_to": [
+              "GALD",
+              "Neonatal hemochromatosis"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P78.89",
+            "description": "Other specified perinatal digestive system disorders",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Cholestasis in newborn",
+              "Neonatal cholestasis"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P78.81",
+        "description": "Congenital cirrhosis (of liver)",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P78.82",
+        "description": "Peptic ulcer of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal peptic ulcer"
+        ],
+        "children": []
+      },
+      {
+        "code": "P78.83",
+        "description": "Newborn esophageal reflux",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal esophageal reflux"
+        ],
+        "approximate_synonyms": [
+          "Neonatal esophageal reflux",
+          "Neonatal gastroesophageal reflux"
+        ],
+        "children": []
+      },
+      {
+        "code": "P78.84",
+        "description": "Gestational alloimmune liver disease",
+        "clinical_information": [],
+        "applicable_to": [
+          "GALD",
+          "Neonatal hemochromatosis"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P78.89",
+        "description": "Other specified perinatal digestive system disorders",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cholestasis in newborn",
+          "Neonatal cholestasis"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P80",
+    "description": "Hypothermia of newborn",
+    "clinical_information": [],
+    "applicable_to": [
+      "Accidental hypothermia",
+      "Hypothermia NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P80.0",
+        "description": "Cold injury syndrome",
+        "clinical_information": [],
+        "applicable_to": [
+          "Severe and usually chronic hypothermia associated with a pink flushed appearance, edema and neurological and biochemical abnormalities."
+        ],
+        "approximate_synonyms": [
+          "Cold injury syndrome of newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P80.8",
+        "description": "Other hypothermia of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Mild hypothermia of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P80.9",
+        "description": "Hypothermia of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hypothermia of newborn",
+          "Neonatal hypothermia"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P81",
+    "description": "Other disturbances of temperature regulation of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P81.0",
+        "description": "Environmental hyperthermia of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Environmentally-induced hyperthermia in newborn",
+          "Neonatal environmental hyperthermia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P81.8",
+        "description": "Other specified disturbances of temperature regulation of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P81.9",
+        "description": "Disturbance of temperature regulation of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Fever of newborn NOS"
+        ],
+        "approximate_synonyms": [
+          "Disturbance of temperature regulation of newborn",
+          "Hyperthermia in newborn",
+          "Neonatal hyperthermia",
+          "Neonatal temperature regulation disorder"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P84",
+    "description": "Other problems with newborn",
+    "clinical_information": [
+      "Reduction of oxygen supply to tissues in newborns that is below physiological levels.",
+      "Respiratory failure in the newborn. (Dorland, 27th ed)"
+    ],
+    "applicable_to": [
+      "Acidemia of newborn",
+      "Acidosis of newborn",
+      "Anoxia of newborn NOS",
+      "Asphyxia of newborn NOS",
+      "Hypercapnia of newborn",
+      "Hypoxemia of newborn",
+      "Hypoxia of newborn NOS",
+      "Mixed metabolic and respiratory acidosis of newborn"
+    ],
+    "approximate_synonyms": [
+      "Asphyxia, in liveborn infant",
+      "Birth asphyxia in liveborn infant",
+      "Fetal distress during labor, liveborn",
+      "Liveborn with labor fetal distress",
+      "Neonatal acidosis",
+      "Neonatal hypoxemia",
+      "Neonatal respiratory acidosis"
+    ],
+    "children": []
+  },
+  {
+    "code": "P90",
+    "description": "Convulsions of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [
+      "Convulsions in the newborn",
+      "Neonatal convulsions"
+    ],
+    "children": []
+  },
+  {
+    "code": "P91",
+    "description": "Other disturbances of cerebral status of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P91.0",
+        "description": "Neonatal cerebral ischemia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal stroke",
+          "Perinatal arterial ischemic stroke",
+          "Perinatal cerebral infarction"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P91.1",
+        "description": "Acquired periventricular cysts of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Arachnoid cyst",
+          "Porencephalic cyst, acquired"
+        ],
+        "approximate_synonyms": [
+          "Acquired neonatal periventricular cysts"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.2",
+        "description": "Neonatal cerebral leukomalacia",
+        "clinical_information": [
+          "Degeneration of white matter adjacent to the cerebral ventricles following cerebral hypoxia or brain ischemia in neonates. The condition primarily affects white matter in the perfusion zone between superficial and deep branches of the middle cerebral artery. Clinical manifestations include vision disorders; cerebral palsy; paraplegia; seizures; and cognitive disorders. (from Adams et al., Principles of Neurology, 6th ed, p1021; Joynt, Clinical Neurology, 1997, ch4, pp30-1)",
+          "Necrosis and softening of the white matter around the ventricles in the brain. It is usually seen in preterm infants and caused by lack of blood flow and oxygenation in the periventricular brain parenchyma."
+        ],
+        "applicable_to": [
+          "Periventricular leukomalacia"
+        ],
+        "approximate_synonyms": [
+          "Periventricular leukomalacia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.3",
+        "description": "Neonatal cerebral irritability",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cerebral irritability in newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.4",
+        "description": "Neonatal cerebral depression",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Cerebral depression in newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.5",
+        "description": "Neonatal coma",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Coma in the newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.6",
+        "description": "Hypoxic ischemic encephalopathy [HIE]",
+        "clinical_information": [],
+        "applicable_to": [
+          "Acidemia of newborn",
+          "Acidosis of newborn",
+          "Anoxia of newborn NOS",
+          "Asphyxia of newborn NOS",
+          "Hypercapnia of newborn",
+          "Hypoxemia of newborn",
+          "Hypoxia of newborn NOS",
+          "Mixed metabolic and respiratory acidosis of newborn"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P91.60",
+            "description": "Hypoxic ischemic encephalopathy [HIE], unspecified",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Birth hypoxic-ischemic encephalopathy",
+              "Perinatal anoxic-ischemic brain injury"
+            ],
+            "children": []
+          },
+          {
+            "code": "P91.61",
+            "description": "Mild hypoxic ischemic encephalopathy [HIE]",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Mild hypoxic ischemic encephalopathy of newborn",
+              "Newborn hypoxic ischemic encephalopathy, mild"
+            ],
+            "children": []
+          },
+          {
+            "code": "P91.62",
+            "description": "Moderate hypoxic ischemic encephalopathy [HIE]",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Moderate hypoxic ischemic encephalopathy of newborn",
+              "Newborn hypoxic ischemic encephalopathy, moderate"
+            ],
+            "children": []
+          },
+          {
+            "code": "P91.63",
+            "description": "Severe hypoxic ischemic encephalopathy [HIE]",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Newborn hypoxic ischemic encephalopathy, severe",
+              "Severe hypoxic ischemic encephalopathy of newborn"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P91.60",
+        "description": "Hypoxic ischemic encephalopathy [HIE], unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Birth hypoxic-ischemic encephalopathy",
+          "Perinatal anoxic-ischemic brain injury"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.61",
+        "description": "Mild hypoxic ischemic encephalopathy [HIE]",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Mild hypoxic ischemic encephalopathy of newborn",
+          "Newborn hypoxic ischemic encephalopathy, mild"
+        ],
+        "children": []
+      },
+      {
+        "code": "P91.62",
+        "description": "Moderate hypoxic ischemic encephalopathy [HIE]",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Moderate hypoxic ischemic encephalopathy of newborn",
+          "Newborn hypoxic ischemic encephalopathy, moderate"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P93",
+    "description": "Reactions and intoxications due to drugs administered to newborn",
+    "clinical_information": [],
+    "applicable_to": [
+      "Newborn affected by reactions and intoxications from maternal opiates and tranquilizers administered for procedures during pregnancy or labor and delivery"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P93.0",
+        "description": "Grey baby syndrome",
+        "clinical_information": [],
+        "applicable_to": [
+          "Grey syndrome from chloramphenicol administration in newborn"
+        ],
+        "approximate_synonyms": [
+          "Gray baby syndrome",
+          "Gray syndrome from chloramphenicol administration in newborn"
+        ],
+        "children": []
+      },
+      {
+        "code": "P93.8",
+        "description": "Other reactions and intoxications due to drugs administered to newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Newborn drug reaction and intoxication"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P94",
+    "description": "Disorders of muscle tone of newborn",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P94.0",
+        "description": "Transient neonatal myasthenia gravis",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal myasthenia gravis"
+        ],
+        "children": []
+      },
+      {
+        "code": "P94.1",
+        "description": "Congenital hypertonia",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Hypertonicity in infancy"
+        ],
+        "children": []
+      },
+      {
+        "code": "P94.2",
+        "description": "Congenital hypotonia",
+        "clinical_information": [],
+        "applicable_to": [
+          "Floppy baby syndrome, unspecified"
+        ],
+        "approximate_synonyms": [
+          "Benign congenital hypotonia",
+          "Hypotonia, benign congenital",
+          "Neonatal hypotonia"
+        ],
+        "children": []
+      },
+      {
+        "code": "P94.8",
+        "description": "Other disorders of muscle tone of newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P94.9",
+        "description": "Disorder of muscle tone of newborn, unspecified",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal muscle tone disorder"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "P95",
+    "description": "Stillbirth",
+    "clinical_information": [
+      "A natural loss of the products of conception.",
+      "If a woman loses a pregnancy after she's past her 20th week, it's called a stillbirth. Stillbirths are due to natural causes. They can happen before delivery or during delivery. Causes include:problems with the placenta, the organ that transports oxygen and nutrients to the fetusgenetic problems with the fetusfetal infectionsother physical problems in the fetusin at least half of cases, it is not possible to tell why the baby died.if stillbirth happens before delivery, your health care provider may induce labor or perform a cesarean section to deliver the fetus. In some cases, you can wait until you go into labor yourself. This usually happens within two weeks of stillbirth.counseling may help you cope with your grief. Later, if you do decide to try again, work closely with your health care provider to lower the risks. Many women who have a stillbirth go on to have healthy babies. nih: national institute of child health and human development",
+      "problems with the placenta, the organ that transports oxygen and nutrients to the fetus",
+      "genetic problems with the fetus",
+      "fetal infections",
+      "other physical problems in the fetus",
+      "The event that a fetus is born dead or stillborn."
+    ],
+    "applicable_to": [
+      "Deadborn fetus NOS",
+      "Fetal death of unspecified cause",
+      "Stillbirth NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": []
+  },
+  {
+    "code": "P96",
+    "description": "Other conditions originating in the perinatal period",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "P96.0",
+        "description": "Congenital renal failure",
+        "clinical_information": [],
+        "applicable_to": [
+          "Uremia of newborn"
+        ],
+        "approximate_synonyms": [
+          "Congenital kidney failure"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.1",
+        "description": "Neonatal withdrawal symptoms from maternal use of drugs of addiction",
+        "clinical_information": [
+          "A constellation of signs and symptoms observable in a neonate that are consistent with maternal substance abuse or withdrawal while pregnant.",
+          "Fetal and neonatal addiction and withdrawal as a result of the mother's dependence on drugs during pregnancy. Withdrawal or abstinence symptoms develop shortly after birth. Symptoms exhibited are loud, high-pitched crying, sweating, yawning and gastrointestinal disturbances."
+        ],
+        "applicable_to": [
+          "Drug withdrawal syndrome in infant of dependent mother",
+          "Neonatal abstinence syndrome"
+        ],
+        "approximate_synonyms": [
+          "Neonatal drug withdrawal syndrome, maternal drug abuse",
+          "Neonatal drug withdrawal syndrome, maternal drugs of abuse"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.2",
+        "description": "Withdrawal symptoms from therapeutic use of drugs in newborn",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal drug withdrawal syndrome, maternal therapeutic drug",
+          "Neonatal drug withdrawal syndrome, mother prescription"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.3",
+        "description": "Wide cranial sutures of newborn",
+        "clinical_information": [],
+        "applicable_to": [
+          "Neonatal craniotabes"
+        ],
+        "approximate_synonyms": [
+          "Large fontanelle",
+          "Neonatal wide cranial sutures"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.5",
+        "description": "Complication to newborn due to (fetal) intrauterine procedure",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by amniocentesis"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P96.8",
+        "description": "Other specified conditions originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "P96.81",
+            "description": "Exposure to (parental) (environmental) tobacco smoke in the perinatal period",
+            "clinical_information": [],
+            "applicable_to": [
+              "Newborn affected by exposure in utero to tobacco smoke"
+            ],
+            "approximate_synonyms": [
+              "Neonatal exposure to tobacco smoke"
+            ],
+            "children": []
+          },
+          {
+            "code": "P96.82",
+            "description": "Delayed separation of umbilical cord",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "P96.83",
+            "description": "Meconium staining",
+            "clinical_information": [],
+            "applicable_to": [
+              "Meconium aspiration NOS"
+            ],
+            "approximate_synonyms": [
+              "Meconium stained liquor"
+            ],
+            "children": []
+          },
+          {
+            "code": "P96.89",
+            "description": "Other specified conditions originating in the perinatal period",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [
+              "Neonatal (newborn) arrhythmia",
+              "Neonatal dysrhythmia",
+              "Neonatal subcutaneous fat necrosis",
+              "Subcutaneous fat necrosis of newborn"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "P96.81",
+        "description": "Exposure to (parental) (environmental) tobacco smoke in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [
+          "Newborn affected by exposure in utero to tobacco smoke"
+        ],
+        "approximate_synonyms": [
+          "Neonatal exposure to tobacco smoke"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.82",
+        "description": "Delayed separation of umbilical cord",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "P96.83",
+        "description": "Meconium staining",
+        "clinical_information": [],
+        "applicable_to": [
+          "Meconium aspiration NOS"
+        ],
+        "approximate_synonyms": [
+          "Meconium stained liquor"
+        ],
+        "children": []
+      },
+      {
+        "code": "P96.89",
+        "description": "Other specified conditions originating in the perinatal period",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [
+          "Neonatal (newborn) arrhythmia",
+          "Neonatal dysrhythmia",
+          "Neonatal subcutaneous fat necrosis",
+          "Subcutaneous fat necrosis of newborn"
+        ],
+        "children": []
+      }
+    ]
+  }
+]

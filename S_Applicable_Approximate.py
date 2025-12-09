@@ -1,0 +1,202 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+import time
+import re
+
+BASE_URL = "https://www.icd10data.com"
+CHAPTER_URL = "https://www.icd10data.com/ICD10CM/Codes/S00-T88"   # CORRECT chapter for S00–S99
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
+
+# ---------------------------------------------------------
+# CLEAN
+# ---------------------------------------------------------
+def clean(t):
+    if not t:
+        return ""
+    t = t.replace("\xa0", " ").replace("\n", " ").replace("\r", " ")
+    return re.sub(r"\s+", " ", t).strip()
+
+# ---------------------------------------------------------
+# GET SOUP
+# ---------------------------------------------------------
+def get_soup(url):
+    for _ in range(3):
+        try:
+            time.sleep(0.25)
+            r = requests.get(url, headers=HEADERS, timeout=10)
+            if r.status_code == 200:
+                return BeautifulSoup(r.text, "html.parser")
+        except:
+            time.sleep(1)
+    return None
+
+# ---------------------------------------------------------
+# DESCRIPTION
+# ---------------------------------------------------------
+def get_description(soup, code):
+    ul = soup.select_one("ul.codeHierarchy")
+    if ul:
+        for li in ul.find_all("li"):
+            txt = clean(li.get_text() or "")
+            if txt.startswith(code):
+                return clean(txt[len(code):])
+
+    h2 = soup.select_one("h2.codeDescription")
+    if h2:
+        return clean(h2.get_text().replace(code, "").strip(" -"))
+
+    h1 = soup.find("h1", class_="pageHeading")
+    if h1:
+        return clean(h1.get_text().replace(code, "").strip(" -"))
+
+    return ""
+
+# ---------------------------------------------------------
+# CLINICAL INFO
+# ---------------------------------------------------------
+def get_clinical_info(soup):
+    h = soup.find(lambda t: t.name in ["span","strong","h3"] and "clinical information" in t.get_text().lower())
+    if not h: 
+        return []
+    ul = h.find_next("ul")
+    if not ul: 
+        return []
+    return [clean(li.get_text()) for li in ul.find_all("li")]
+
+# ---------------------------------------------------------
+# APPLICABLE TO
+# ---------------------------------------------------------
+def get_applicable_to(soup):
+    h = soup.find(lambda t: t.name in ["span","strong","h3"] and "applicable to" in t.get_text().lower())
+    if not h: 
+        return []
+    ul = h.find_next("ul")
+    if not ul: 
+        return []
+    return [clean(li.get_text()) for li in ul.find_all("li")]
+
+# ---------------------------------------------------------
+# APPROX SYNONYMS
+# ---------------------------------------------------------
+def get_approximate_synonyms(soup):
+    h = soup.find(lambda t: t.name in ["span","strong","h3"] and "approximate synonyms" in t.get_text().lower())
+    if not h: 
+        return []
+    ul = h.find_next("ul")
+    if not ul: 
+        return []
+    return [clean(li.get_text()) for li in ul.find_all("li")]
+
+# ---------------------------------------------------------
+# SCRAPE ROOT / CHILD
+# ---------------------------------------------------------
+def scrape_code(url, code):
+    soup = get_soup(url)
+    if not soup:
+        return None
+
+    node = {
+        "code": code,
+        "description": get_description(soup, code),
+        "clinical_information": get_clinical_info(soup),
+        "applicable_to": get_applicable_to(soup),
+        "approximate_synonyms": get_approximate_synonyms(soup),
+        "children": []
+    }
+
+    body = soup.find("div","body-content")
+    if not body:
+        return node
+
+    seen = set()
+
+    for a in body.find_all("a", href=True):
+        txt = clean(a.get_text() or "")
+        if not txt:
+            continue
+
+        c_code = txt.split(" ")[0]
+
+        if (
+            c_code.startswith(code)
+            and len(c_code) > len(code)
+            and "-" not in c_code
+            and "/ICD10CM/Codes/" in a["href"]
+        ):
+            if c_code not in seen:
+                seen.add(c_code)
+                print(f" → Child: {c_code}")
+                child = scrape_code(BASE_URL + a["href"], c_code)
+                if child:
+                    node["children"].append(child)
+
+    return node
+
+# ---------------------------------------------------------
+# DISCOVER S ROOT CODES
+# ---------------------------------------------------------
+def discover_s_root_codes():
+
+    soup = get_soup(CHAPTER_URL)
+    if not soup:
+        return []
+
+    body = soup.find("div","body-content")
+    if not body:
+        return []
+
+    ul = body.select_one("ul.codeHierarchy")
+    if not ul:
+        return []
+
+    roots = []
+
+    for li in ul.find_all("li"):
+        txt = clean(li.get_text() or "")
+        if not txt:
+            continue
+
+        code = txt.split(" ")[0]
+
+        if code.startswith("S") and len(code)==3 and code[1:].isdigit():
+            a = li.find("a")
+            if a:
+                roots.append((code, BASE_URL + a["href"]))
+
+    return sorted(list(set(roots)))
+
+# ---------------------------------------------------------
+# MAIN
+# ---------------------------------------------------------
+def main():
+
+    print("SCRAPING S00–S99 (Applicable To + Synonyms)…")
+
+    roots = discover_s_root_codes()
+    if not roots:
+        print("❌ Could not discover S root codes!")
+        return
+
+    print(f"FOUND {len(roots)} S ROOT CODES:")
+    for code,url in roots:
+        print(" -", code, url)
+
+    data = []
+
+    for code,url in roots:
+        print(f"\nROOT → {code}")
+        res = scrape_code(url, code)
+        if res:
+            data.append(res)
+
+    with open("S_Applicable_Approximate.json","w",encoding="utf-8") as f:
+        json.dump(data,f,indent=2)
+
+    print("\n✔ DONE — Saved S_Applicable_Approximate.json")
+
+if __name__ == "__main__":
+    main()

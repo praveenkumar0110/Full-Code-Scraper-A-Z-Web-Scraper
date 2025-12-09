@@ -1,0 +1,5459 @@
+[
+  {
+    "code": "X00",
+    "description": "Exposure to uncontrolled fire in building or structure",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X00.0",
+        "description": "Exposure to flames in uncontrolled fire in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X00.0XXA",
+            "description": "Exposure to flames in uncontrolled fire in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.0XXD",
+            "description": "Exposure to flames in uncontrolled fire in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.0XXS",
+            "description": "Exposure to flames in uncontrolled fire in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X00.0XXA",
+        "description": "Exposure to flames in uncontrolled fire in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.0XXD",
+        "description": "Exposure to flames in uncontrolled fire in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.0XXS",
+        "description": "Exposure to flames in uncontrolled fire in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.1",
+        "description": "Exposure to smoke in uncontrolled fire in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X00.1XXA",
+            "description": "Exposure to smoke in uncontrolled fire in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.1XXD",
+            "description": "Exposure to smoke in uncontrolled fire in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.1XXS",
+            "description": "Exposure to smoke in uncontrolled fire in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X00.1XXA",
+        "description": "Exposure to smoke in uncontrolled fire in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.1XXD",
+        "description": "Exposure to smoke in uncontrolled fire in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.1XXS",
+        "description": "Exposure to smoke in uncontrolled fire in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X00.2",
+        "description": "Injury due to collapse of burning building or structure in uncontrolled fire",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X00.2XXA",
+            "description": "Injury due to collapse of burning building or structure in uncontrolled fire, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.2XXD",
+            "description": "Injury due to collapse of burning building or structure in uncontrolled fire, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X00.2XXS",
+            "description": "Injury due to collapse of burning building or structure in uncontrolled fire, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X00.2XXA",
+        "description": "Injury due to collapse of burning building or structure in uncontrolled fire, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X01",
+    "description": "Exposure to uncontrolled fire, not in building or structure",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X01.0",
+        "description": "Exposure to flames in uncontrolled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X01.0XXA",
+            "description": "Exposure to flames in uncontrolled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.0XXD",
+            "description": "Exposure to flames in uncontrolled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.0XXS",
+            "description": "Exposure to flames in uncontrolled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X01.0XXA",
+        "description": "Exposure to flames in uncontrolled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.0XXD",
+        "description": "Exposure to flames in uncontrolled fire, not in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.0XXS",
+        "description": "Exposure to flames in uncontrolled fire, not in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.1",
+        "description": "Exposure to smoke in uncontrolled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X01.1XXA",
+            "description": "Exposure to smoke in uncontrolled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.1XXD",
+            "description": "Exposure to smoke in uncontrolled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.1XXS",
+            "description": "Exposure to smoke in uncontrolled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X01.1XXA",
+        "description": "Exposure to smoke in uncontrolled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.1XXD",
+        "description": "Exposure to smoke in uncontrolled fire, not in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.1XXS",
+        "description": "Exposure to smoke in uncontrolled fire, not in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X01.3",
+        "description": "Fall due to uncontrolled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X01.3XXA",
+            "description": "Fall due to uncontrolled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.3XXD",
+            "description": "Fall due to uncontrolled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X01.3XXS",
+            "description": "Fall due to uncontrolled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X01.3XXA",
+        "description": "Fall due to uncontrolled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X02",
+    "description": "Exposure to controlled fire in building or structure",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X02.0",
+        "description": "Exposure to flames in controlled fire in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X02.0XXA",
+            "description": "Exposure to flames in controlled fire in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.0XXD",
+            "description": "Exposure to flames in controlled fire in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.0XXS",
+            "description": "Exposure to flames in controlled fire in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X02.0XXA",
+        "description": "Exposure to flames in controlled fire in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.0XXD",
+        "description": "Exposure to flames in controlled fire in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.0XXS",
+        "description": "Exposure to flames in controlled fire in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.1",
+        "description": "Exposure to smoke in controlled fire in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X02.1XXA",
+            "description": "Exposure to smoke in controlled fire in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.1XXD",
+            "description": "Exposure to smoke in controlled fire in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.1XXS",
+            "description": "Exposure to smoke in controlled fire in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X02.1XXA",
+        "description": "Exposure to smoke in controlled fire in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.1XXD",
+        "description": "Exposure to smoke in controlled fire in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.1XXS",
+        "description": "Exposure to smoke in controlled fire in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X02.2",
+        "description": "Injury due to collapse of burning building or structure in controlled fire",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X02.2XXA",
+            "description": "Injury due to collapse of burning building or structure in controlled fire, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.2XXD",
+            "description": "Injury due to collapse of burning building or structure in controlled fire, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X02.2XXS",
+            "description": "Injury due to collapse of burning building or structure in controlled fire, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X02.2XXA",
+        "description": "Injury due to collapse of burning building or structure in controlled fire, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X03",
+    "description": "Exposure to controlled fire, not in building or structure",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X03.0",
+        "description": "Exposure to flames in controlled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X03.0XXA",
+            "description": "Exposure to flames in controlled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.0XXD",
+            "description": "Exposure to flames in controlled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.0XXS",
+            "description": "Exposure to flames in controlled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X03.0XXA",
+        "description": "Exposure to flames in controlled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.0XXD",
+        "description": "Exposure to flames in controlled fire, not in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.0XXS",
+        "description": "Exposure to flames in controlled fire, not in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.1",
+        "description": "Exposure to smoke in controlled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X03.1XXA",
+            "description": "Exposure to smoke in controlled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.1XXD",
+            "description": "Exposure to smoke in controlled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.1XXS",
+            "description": "Exposure to smoke in controlled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X03.1XXA",
+        "description": "Exposure to smoke in controlled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.1XXD",
+        "description": "Exposure to smoke in controlled fire, not in building or structure, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.1XXS",
+        "description": "Exposure to smoke in controlled fire, not in building or structure, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X03.3",
+        "description": "Fall due to controlled fire, not in building or structure",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X03.3XXA",
+            "description": "Fall due to controlled fire, not in building or structure, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.3XXD",
+            "description": "Fall due to controlled fire, not in building or structure, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X03.3XXS",
+            "description": "Fall due to controlled fire, not in building or structure, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X03.3XXA",
+        "description": "Fall due to controlled fire, not in building or structure, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X04",
+    "description": "Exposure to ignition of highly flammable material",
+    "clinical_information": [],
+    "applicable_to": [
+      "Exposure to ignition of gasoline",
+      "Exposure to ignition of kerosene",
+      "Exposure to ignition of petrol"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X04.XXXA",
+        "description": "Exposure to ignition of highly flammable material, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to ignition of gasoline",
+          "Exposure to ignition of kerosene",
+          "Exposure to ignition of petrol"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X04.XXXD",
+        "description": "Exposure to ignition of highly flammable material, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to ignition of gasoline",
+          "Exposure to ignition of kerosene",
+          "Exposure to ignition of petrol"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X04.XXXS",
+        "description": "Exposure to ignition of highly flammable material, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to ignition of gasoline",
+          "Exposure to ignition of kerosene",
+          "Exposure to ignition of petrol"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X06",
+    "description": "Exposure to ignition or melting of other clothing and apparel",
+    "clinical_information": [],
+    "applicable_to": [
+      "Exposure to ignition of gasoline",
+      "Exposure to ignition of kerosene",
+      "Exposure to ignition of petrol"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X06.0",
+        "description": "Exposure to ignition of plastic jewelry",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X06.0XXA",
+            "description": "Exposure to ignition of plastic jewelry, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.0XXD",
+            "description": "Exposure to ignition of plastic jewelry, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.0XXS",
+            "description": "Exposure to ignition of plastic jewelry, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X06.0XXA",
+        "description": "Exposure to ignition of plastic jewelry, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.0XXD",
+        "description": "Exposure to ignition of plastic jewelry, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.0XXS",
+        "description": "Exposure to ignition of plastic jewelry, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.1",
+        "description": "Exposure to melting of plastic jewelry",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X06.1XXA",
+            "description": "Exposure to melting of plastic jewelry, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.1XXD",
+            "description": "Exposure to melting of plastic jewelry, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.1XXS",
+            "description": "Exposure to melting of plastic jewelry, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X06.1XXA",
+        "description": "Exposure to melting of plastic jewelry, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.1XXD",
+        "description": "Exposure to melting of plastic jewelry, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.1XXS",
+        "description": "Exposure to melting of plastic jewelry, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X06.2",
+        "description": "Exposure to ignition of other clothing and apparel",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X06.2XXA",
+            "description": "Exposure to ignition of other clothing and apparel, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.2XXD",
+            "description": "Exposure to ignition of other clothing and apparel, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X06.2XXS",
+            "description": "Exposure to ignition of other clothing and apparel, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X06.2XXA",
+        "description": "Exposure to ignition of other clothing and apparel, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X08",
+    "description": "Exposure to other specified smoke, fire and flames",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X08.0",
+        "description": "Exposure to bed fire",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X08.00",
+            "description": "Exposure to bed fire due to unspecified burning material",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X08.00XA",
+                "description": "Exposure to bed fire due to unspecified burning material, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.00XD",
+                "description": "Exposure to bed fire due to unspecified burning material, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.00XS",
+                "description": "Exposure to bed fire due to unspecified burning material, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X08.00XA",
+            "description": "Exposure to bed fire due to unspecified burning material, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.00XD",
+            "description": "Exposure to bed fire due to unspecified burning material, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.00XS",
+            "description": "Exposure to bed fire due to unspecified burning material, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.01",
+            "description": "Exposure to bed fire due to burning cigarette",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X08.01XA",
+                "description": "Exposure to bed fire due to burning cigarette, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.01XD",
+                "description": "Exposure to bed fire due to burning cigarette, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.01XS",
+                "description": "Exposure to bed fire due to burning cigarette, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X08.01XA",
+            "description": "Exposure to bed fire due to burning cigarette, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.01XD",
+            "description": "Exposure to bed fire due to burning cigarette, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.01XS",
+            "description": "Exposure to bed fire due to burning cigarette, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.09",
+            "description": "Exposure to bed fire due to other burning material",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X08.09XA",
+                "description": "Exposure to bed fire due to other burning material, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.09XD",
+                "description": "Exposure to bed fire due to other burning material, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X08.09XS",
+                "description": "Exposure to bed fire due to other burning material, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Exposure to mattress fire"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X08.09XA",
+            "description": "Exposure to bed fire due to other burning material, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X08.00",
+        "description": "Exposure to bed fire due to unspecified burning material",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X08.00XA",
+            "description": "Exposure to bed fire due to unspecified burning material, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.00XD",
+            "description": "Exposure to bed fire due to unspecified burning material, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.00XS",
+            "description": "Exposure to bed fire due to unspecified burning material, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X08.00XA",
+        "description": "Exposure to bed fire due to unspecified burning material, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.00XD",
+        "description": "Exposure to bed fire due to unspecified burning material, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.00XS",
+        "description": "Exposure to bed fire due to unspecified burning material, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.01",
+        "description": "Exposure to bed fire due to burning cigarette",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X08.01XA",
+            "description": "Exposure to bed fire due to burning cigarette, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.01XD",
+            "description": "Exposure to bed fire due to burning cigarette, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.01XS",
+            "description": "Exposure to bed fire due to burning cigarette, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X08.01XA",
+        "description": "Exposure to bed fire due to burning cigarette, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.01XD",
+        "description": "Exposure to bed fire due to burning cigarette, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.01XS",
+        "description": "Exposure to bed fire due to burning cigarette, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X08.09",
+        "description": "Exposure to bed fire due to other burning material",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to mattress fire"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X08.09XA",
+            "description": "Exposure to bed fire due to other burning material, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.09XD",
+            "description": "Exposure to bed fire due to other burning material, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X08.09XS",
+            "description": "Exposure to bed fire due to other burning material, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Exposure to mattress fire"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "X10",
+    "description": "Contact with hot drinks, food, fats and cooking oils",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X10.0",
+        "description": "Contact with hot drinks",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X10.0XXA",
+            "description": "Contact with hot drinks, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.0XXD",
+            "description": "Contact with hot drinks, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.0XXS",
+            "description": "Contact with hot drinks, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X10.0XXA",
+        "description": "Contact with hot drinks, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.0XXD",
+        "description": "Contact with hot drinks, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.0XXS",
+        "description": "Contact with hot drinks, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.1",
+        "description": "Contact with hot food",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X10.1XXA",
+            "description": "Contact with hot food, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.1XXD",
+            "description": "Contact with hot food, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.1XXS",
+            "description": "Contact with hot food, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X10.1XXA",
+        "description": "Contact with hot food, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.1XXD",
+        "description": "Contact with hot food, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.1XXS",
+        "description": "Contact with hot food, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X10.2",
+        "description": "Contact with fats and cooking oils",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X10.2XXA",
+            "description": "Contact with fats and cooking oils, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.2XXD",
+            "description": "Contact with fats and cooking oils, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X10.2XXS",
+            "description": "Contact with fats and cooking oils, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X10.2XXA",
+        "description": "Contact with fats and cooking oils, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X11",
+    "description": "Contact with hot tap-water",
+    "clinical_information": [],
+    "applicable_to": [
+      "Contact with water heated on stove"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X11.0",
+        "description": "Contact with hot water in bath or tub",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water running out of hose",
+          "Contact with hot water running out of tap"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X11.0XXA",
+            "description": "Contact with hot water in bath or tub, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.0XXD",
+            "description": "Contact with hot water in bath or tub, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.0XXS",
+            "description": "Contact with hot water in bath or tub, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X11.0XXA",
+        "description": "Contact with hot water in bath or tub, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.0XXD",
+        "description": "Contact with hot water in bath or tub, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.0XXS",
+        "description": "Contact with hot water in bath or tub, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.1",
+        "description": "Contact with running hot water",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water running out of hose",
+          "Contact with hot water running out of tap"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X11.1XXA",
+            "description": "Contact with running hot water, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water running out of hose",
+              "Contact with hot water running out of tap"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.1XXD",
+            "description": "Contact with running hot water, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water running out of hose",
+              "Contact with hot water running out of tap"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.1XXS",
+            "description": "Contact with running hot water, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water running out of hose",
+              "Contact with hot water running out of tap"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X11.1XXA",
+        "description": "Contact with running hot water, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water running out of hose",
+          "Contact with hot water running out of tap"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.1XXD",
+        "description": "Contact with running hot water, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water running out of hose",
+          "Contact with hot water running out of tap"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.1XXS",
+        "description": "Contact with running hot water, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water running out of hose",
+          "Contact with hot water running out of tap"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X11.8",
+        "description": "Contact with other hot tap-water",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water in bucket",
+          "Contact with hot tap-water NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X11.8XXA",
+            "description": "Contact with other hot tap-water, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water in bucket",
+              "Contact with hot tap-water NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.8XXD",
+            "description": "Contact with other hot tap-water, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water in bucket",
+              "Contact with hot tap-water NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X11.8XXS",
+            "description": "Contact with other hot tap-water, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Contact with hot water in bucket",
+              "Contact with hot tap-water NOS"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X11.8XXA",
+        "description": "Contact with other hot tap-water, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with hot water in bucket",
+          "Contact with hot tap-water NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X12",
+    "description": "Contact with other hot fluids",
+    "clinical_information": [],
+    "applicable_to": [
+      "Contact with water heated on stove"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X12.XXXA",
+        "description": "Contact with other hot fluids, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with water heated on stove"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X12.XXXD",
+        "description": "Contact with other hot fluids, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with water heated on stove"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X12.XXXS",
+        "description": "Contact with other hot fluids, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with water heated on stove"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X13",
+    "description": "Contact with steam and other hot vapors",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X13.0",
+        "description": "Inhalation of steam and other hot vapors",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X13.0XXA",
+            "description": "Inhalation of steam and other hot vapors, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X13.0XXD",
+            "description": "Inhalation of steam and other hot vapors, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X13.0XXS",
+            "description": "Inhalation of steam and other hot vapors, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X13.0XXA",
+        "description": "Inhalation of steam and other hot vapors, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X13.0XXD",
+        "description": "Inhalation of steam and other hot vapors, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X13.0XXS",
+        "description": "Inhalation of steam and other hot vapors, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X13.1",
+        "description": "Other contact with steam and other hot vapors",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X13.1XXA",
+            "description": "Other contact with steam and other hot vapors, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X13.1XXD",
+            "description": "Other contact with steam and other hot vapors, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X13.1XXS",
+            "description": "Other contact with steam and other hot vapors, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X13.1XXA",
+        "description": "Other contact with steam and other hot vapors, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X13.1XXD",
+        "description": "Other contact with steam and other hot vapors, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X13.1XXS",
+        "description": "Other contact with steam and other hot vapors, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X14",
+    "description": "Contact with hot air and other hot gases",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X14.0",
+        "description": "Inhalation of hot air and gases",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X14.0XXA",
+            "description": "Inhalation of hot air and gases, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X14.0XXD",
+            "description": "Inhalation of hot air and gases, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X14.0XXS",
+            "description": "Inhalation of hot air and gases, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X14.0XXA",
+        "description": "Inhalation of hot air and gases, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X14.0XXD",
+        "description": "Inhalation of hot air and gases, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X14.0XXS",
+        "description": "Inhalation of hot air and gases, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X14.1",
+        "description": "Other contact with hot air and other hot gases",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X14.1XXA",
+            "description": "Other contact with hot air and other hot gases, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X14.1XXD",
+            "description": "Other contact with hot air and other hot gases, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X14.1XXS",
+            "description": "Other contact with hot air and other hot gases, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X14.1XXA",
+        "description": "Other contact with hot air and other hot gases, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X14.1XXD",
+        "description": "Other contact with hot air and other hot gases, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X14.1XXS",
+        "description": "Other contact with hot air and other hot gases, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X17",
+    "description": "Contact with hot engines, machinery and tools",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X17.XXXA",
+        "description": "Contact with hot engines, machinery and tools, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X17.XXXD",
+        "description": "Contact with hot engines, machinery and tools, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X17.XXXS",
+        "description": "Contact with hot engines, machinery and tools, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X18",
+    "description": "Contact with other hot metals",
+    "clinical_information": [],
+    "applicable_to": [
+      "Contact with liquid metal"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X18.XXXA",
+        "description": "Contact with other hot metals, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with liquid metal"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X18.XXXD",
+        "description": "Contact with other hot metals, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with liquid metal"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X18.XXXS",
+        "description": "Contact with other hot metals, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Contact with liquid metal"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X19",
+    "description": "Contact with other heat and hot substances",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X19.XXXA",
+        "description": "Contact with other heat and hot substances, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X19.XXXD",
+        "description": "Contact with other heat and hot substances, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X19.XXXS",
+        "description": "Contact with other heat and hot substances, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X30",
+    "description": "Exposure to excessive natural heat",
+    "clinical_information": [],
+    "applicable_to": [
+      "Exposure to excessive heat as the cause of sunstroke",
+      "Exposure to heat NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X30.XXXA",
+        "description": "Exposure to excessive natural heat, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to excessive heat as the cause of sunstroke",
+          "Exposure to heat NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X30.XXXD",
+        "description": "Exposure to excessive natural heat, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to excessive heat as the cause of sunstroke",
+          "Exposure to heat NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X30.XXXS",
+        "description": "Exposure to excessive natural heat, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Exposure to excessive heat as the cause of sunstroke",
+          "Exposure to heat NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X32",
+    "description": "Exposure to sunlight",
+    "clinical_information": [],
+    "applicable_to": [
+      "Exposure to excessive heat as the cause of sunstroke",
+      "Exposure to heat NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X32.XXXA",
+        "description": "Exposure to sunlight, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X32.XXXD",
+        "description": "Exposure to sunlight, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X32.XXXS",
+        "description": "Exposure to sunlight, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X34",
+    "description": "Earthquake",
+    "clinical_information": [],
+    "applicable_to": [
+      "Tidal wave NOS",
+      "Tsunami"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X34.XXXA",
+        "description": "Earthquake, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X34.XXXD",
+        "description": "Earthquake, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X34.XXXS",
+        "description": "Earthquake, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X35",
+    "description": "Volcanic eruption",
+    "clinical_information": [],
+    "applicable_to": [
+      "Tidal wave NOS",
+      "Tsunami"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X35.XXXA",
+        "description": "Volcanic eruption, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X35.XXXD",
+        "description": "Volcanic eruption, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X35.XXXS",
+        "description": "Volcanic eruption, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X36",
+    "description": "Avalanche, landslide and other earth movements",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X36.0",
+        "description": "Collapse of dam or man-made structure causing earth movement",
+        "clinical_information": [],
+        "applicable_to": [
+          "Storm NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X36.0XXA",
+            "description": "Collapse of dam or man-made structure causing earth movement, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X36.0XXD",
+            "description": "Collapse of dam or man-made structure causing earth movement, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X36.0XXS",
+            "description": "Collapse of dam or man-made structure causing earth movement, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X36.0XXA",
+        "description": "Collapse of dam or man-made structure causing earth movement, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X36.0XXD",
+        "description": "Collapse of dam or man-made structure causing earth movement, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X36.0XXS",
+        "description": "Collapse of dam or man-made structure causing earth movement, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X36.1",
+        "description": "Avalanche, landslide, or mudslide",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X36.1XXA",
+            "description": "Avalanche, landslide, or mudslide, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X36.1XXD",
+            "description": "Avalanche, landslide, or mudslide, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X36.1XXS",
+            "description": "Avalanche, landslide, or mudslide, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X36.1XXA",
+        "description": "Avalanche, landslide, or mudslide, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X36.1XXD",
+        "description": "Avalanche, landslide, or mudslide, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X36.1XXS",
+        "description": "Avalanche, landslide, or mudslide, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X37",
+    "description": "Cataclysmic storm",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X37.0",
+        "description": "Hurricane",
+        "clinical_information": [],
+        "applicable_to": [
+          "Storm surge",
+          "Typhoon"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X37.0XXA",
+            "description": "Hurricane, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Storm surge",
+              "Typhoon"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.0XXD",
+            "description": "Hurricane, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Storm surge",
+              "Typhoon"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.0XXS",
+            "description": "Hurricane, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Storm surge",
+              "Typhoon"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X37.0XXA",
+        "description": "Hurricane, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Storm surge",
+          "Typhoon"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.0XXD",
+        "description": "Hurricane, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Storm surge",
+          "Typhoon"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.0XXS",
+        "description": "Hurricane, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Storm surge",
+          "Typhoon"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.1",
+        "description": "Tornado",
+        "clinical_information": [],
+        "applicable_to": [
+          "Cyclone",
+          "Twister"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X37.1XXA",
+            "description": "Tornado, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Cyclone",
+              "Twister"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.1XXD",
+            "description": "Tornado, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Cyclone",
+              "Twister"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.1XXS",
+            "description": "Tornado, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Cyclone",
+              "Twister"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X37.1XXA",
+        "description": "Tornado, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Cyclone",
+          "Twister"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.1XXD",
+        "description": "Tornado, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Cyclone",
+          "Twister"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.1XXS",
+        "description": "Tornado, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Cyclone",
+          "Twister"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X37.2",
+        "description": "Blizzard (snow)(ice)",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X37.2XXA",
+            "description": "Blizzard (snow)(ice), initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.2XXD",
+            "description": "Blizzard (snow)(ice), subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X37.2XXS",
+            "description": "Blizzard (snow)(ice), sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X37.2XXA",
+        "description": "Blizzard (snow)(ice), initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X38",
+    "description": "Flood",
+    "clinical_information": [],
+    "applicable_to": [
+      "Flood arising from remote storm",
+      "Flood of cataclysmic nature arising from melting snow",
+      "Flood resulting directly from storm"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X38.XXXA",
+        "description": "Flood, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Flood arising from remote storm",
+          "Flood of cataclysmic nature arising from melting snow",
+          "Flood resulting directly from storm"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X38.XXXD",
+        "description": "Flood, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Flood arising from remote storm",
+          "Flood of cataclysmic nature arising from melting snow",
+          "Flood resulting directly from storm"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X38.XXXS",
+        "description": "Flood, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Flood arising from remote storm",
+          "Flood of cataclysmic nature arising from melting snow",
+          "Flood resulting directly from storm"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X39",
+    "description": "Exposure to other forces of nature",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X39.0",
+        "description": "Exposure to natural radiation",
+        "clinical_information": [],
+        "applicable_to": [
+          "Radiation pneumonitis"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X39.01",
+            "description": "Exposure to radon",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X39.01XA",
+                "description": "Exposure to radon, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X39.01XD",
+                "description": "Exposure to radon, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X39.01XS",
+                "description": "Exposure to radon, sequela",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X39.01XA",
+            "description": "Exposure to radon, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.01XD",
+            "description": "Exposure to radon, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.01XS",
+            "description": "Exposure to radon, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.08",
+            "description": "Exposure to other natural radiation",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X39.08XA",
+                "description": "Exposure to other natural radiation, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X39.08XD",
+                "description": "Exposure to other natural radiation, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X39.08XS",
+                "description": "Exposure to other natural radiation, sequela",
+                "clinical_information": [],
+                "applicable_to": [],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X39.08XA",
+            "description": "Exposure to other natural radiation, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.08XD",
+            "description": "Exposure to other natural radiation, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.08XS",
+            "description": "Exposure to other natural radiation, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X39.01",
+        "description": "Exposure to radon",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X39.01XA",
+            "description": "Exposure to radon, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.01XD",
+            "description": "Exposure to radon, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.01XS",
+            "description": "Exposure to radon, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X39.01XA",
+        "description": "Exposure to radon, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.01XD",
+        "description": "Exposure to radon, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.01XS",
+        "description": "Exposure to radon, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.08",
+        "description": "Exposure to other natural radiation",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X39.08XA",
+            "description": "Exposure to other natural radiation, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.08XD",
+            "description": "Exposure to other natural radiation, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.08XS",
+            "description": "Exposure to other natural radiation, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X39.08XA",
+        "description": "Exposure to other natural radiation, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.08XD",
+        "description": "Exposure to other natural radiation, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.08XS",
+        "description": "Exposure to other natural radiation, sequela",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X39.8",
+        "description": "Other exposure to forces of nature",
+        "clinical_information": [],
+        "applicable_to": [],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X39.8XXA",
+            "description": "Other exposure to forces of nature, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.8XXD",
+            "description": "Other exposure to forces of nature, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X39.8XXS",
+            "description": "Other exposure to forces of nature, sequela",
+            "clinical_information": [],
+            "applicable_to": [],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "X50",
+    "description": "Overexertion and strenuous or repetitive movements",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X50.0",
+        "description": "Overexertion from strenuous movement or load",
+        "clinical_information": [],
+        "applicable_to": [
+          "Lifting heavy objects",
+          "Lifting weights"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X50.0XXA",
+            "description": "Overexertion from strenuous movement or load, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Lifting heavy objects",
+              "Lifting weights"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.0XXD",
+            "description": "Overexertion from strenuous movement or load, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Lifting heavy objects",
+              "Lifting weights"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.0XXS",
+            "description": "Overexertion from strenuous movement or load, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Lifting heavy objects",
+              "Lifting weights"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X50.0XXA",
+        "description": "Overexertion from strenuous movement or load, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Lifting heavy objects",
+          "Lifting weights"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.0XXD",
+        "description": "Overexertion from strenuous movement or load, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Lifting heavy objects",
+          "Lifting weights"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.0XXS",
+        "description": "Overexertion from strenuous movement or load, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Lifting heavy objects",
+          "Lifting weights"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.1",
+        "description": "Overexertion from prolonged static or awkward postures",
+        "clinical_information": [],
+        "applicable_to": [
+          "Prolonged bending",
+          "Prolonged kneeling",
+          "Prolonged reaching",
+          "Prolonged sitting",
+          "Prolonged standing",
+          "Prolonged twisting",
+          "Static bending",
+          "Static kneeling",
+          "Static reaching",
+          "Static sitting",
+          "Static standing",
+          "Static twisting"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X50.1XXA",
+            "description": "Overexertion from prolonged static or awkward postures, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Prolonged bending",
+              "Prolonged kneeling",
+              "Prolonged reaching",
+              "Prolonged sitting",
+              "Prolonged standing",
+              "Prolonged twisting",
+              "Static bending",
+              "Static kneeling",
+              "Static reaching",
+              "Static sitting",
+              "Static standing",
+              "Static twisting"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.1XXD",
+            "description": "Overexertion from prolonged static or awkward postures, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Prolonged bending",
+              "Prolonged kneeling",
+              "Prolonged reaching",
+              "Prolonged sitting",
+              "Prolonged standing",
+              "Prolonged twisting",
+              "Static bending",
+              "Static kneeling",
+              "Static reaching",
+              "Static sitting",
+              "Static standing",
+              "Static twisting"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.1XXS",
+            "description": "Overexertion from prolonged static or awkward postures, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Prolonged bending",
+              "Prolonged kneeling",
+              "Prolonged reaching",
+              "Prolonged sitting",
+              "Prolonged standing",
+              "Prolonged twisting",
+              "Static bending",
+              "Static kneeling",
+              "Static reaching",
+              "Static sitting",
+              "Static standing",
+              "Static twisting"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X50.1XXA",
+        "description": "Overexertion from prolonged static or awkward postures, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Prolonged bending",
+          "Prolonged kneeling",
+          "Prolonged reaching",
+          "Prolonged sitting",
+          "Prolonged standing",
+          "Prolonged twisting",
+          "Static bending",
+          "Static kneeling",
+          "Static reaching",
+          "Static sitting",
+          "Static standing",
+          "Static twisting"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.1XXD",
+        "description": "Overexertion from prolonged static or awkward postures, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Prolonged bending",
+          "Prolonged kneeling",
+          "Prolonged reaching",
+          "Prolonged sitting",
+          "Prolonged standing",
+          "Prolonged twisting",
+          "Static bending",
+          "Static kneeling",
+          "Static reaching",
+          "Static sitting",
+          "Static standing",
+          "Static twisting"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.1XXS",
+        "description": "Overexertion from prolonged static or awkward postures, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Prolonged bending",
+          "Prolonged kneeling",
+          "Prolonged reaching",
+          "Prolonged sitting",
+          "Prolonged standing",
+          "Prolonged twisting",
+          "Static bending",
+          "Static kneeling",
+          "Static reaching",
+          "Static sitting",
+          "Static standing",
+          "Static twisting"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X50.3",
+        "description": "Overexertion from repetitive movements",
+        "clinical_information": [],
+        "applicable_to": [
+          "Use of hand as hammer"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X50.3XXA",
+            "description": "Overexertion from repetitive movements, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Use of hand as hammer"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.3XXD",
+            "description": "Overexertion from repetitive movements, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Use of hand as hammer"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X50.3XXS",
+            "description": "Overexertion from repetitive movements, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Use of hand as hammer"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X50.3XXA",
+        "description": "Overexertion from repetitive movements, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Use of hand as hammer"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X52",
+    "description": "Prolonged stay in weightless environment",
+    "clinical_information": [],
+    "applicable_to": [
+      "Weightlessness in spacecraft (simulator)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X52.XXXA",
+        "description": "Prolonged stay in weightless environment, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Weightlessness in spacecraft (simulator)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X52.XXXD",
+        "description": "Prolonged stay in weightless environment, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Weightlessness in spacecraft (simulator)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X52.XXXS",
+        "description": "Prolonged stay in weightless environment, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Weightlessness in spacecraft (simulator)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X58",
+    "description": "Exposure to other specified factors",
+    "clinical_information": [
+      "An unforeseen and unplanned event or circumstance frequently causing loss or injury.",
+      "Unforeseen and unplanned event or circumstance frequently causing loss or injury."
+    ],
+    "applicable_to": [
+      "Accident NOS",
+      "Exposure NOS"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X58.XXXA",
+        "description": "Exposure to other specified factors, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Accident NOS",
+          "Exposure NOS"
+        ],
+        "approximate_synonyms": [
+          "Effects of hunger",
+          "Exhaustion due to excessive exertion",
+          "Exhaustion due to exposure",
+          "Starvation",
+          "Thirst due to water deprivation"
+        ],
+        "children": []
+      },
+      {
+        "code": "X58.XXXD",
+        "description": "Exposure to other specified factors, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Accident NOS",
+          "Exposure NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X58.XXXS",
+        "description": "Exposure to other specified factors, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Accident NOS",
+          "Exposure NOS"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X71",
+    "description": "Intentional self-harm by drowning and submersion",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X71.0",
+        "description": "Intentional self-harm by drowning and submersion while in bathtub",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X71.0XXA",
+            "description": "Intentional self-harm by drowning and submersion while in bathtub, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.0XXD",
+            "description": "Intentional self-harm by drowning and submersion while in bathtub, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.0XXS",
+            "description": "Intentional self-harm by drowning and submersion while in bathtub, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X71.0XXA",
+        "description": "Intentional self-harm by drowning and submersion while in bathtub, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.0XXD",
+        "description": "Intentional self-harm by drowning and submersion while in bathtub, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.0XXS",
+        "description": "Intentional self-harm by drowning and submersion while in bathtub, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.1",
+        "description": "Intentional self-harm by drowning and submersion while in swimming pool",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X71.1XXA",
+            "description": "Intentional self-harm by drowning and submersion while in swimming pool, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.1XXD",
+            "description": "Intentional self-harm by drowning and submersion while in swimming pool, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.1XXS",
+            "description": "Intentional self-harm by drowning and submersion while in swimming pool, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X71.1XXA",
+        "description": "Intentional self-harm by drowning and submersion while in swimming pool, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.1XXD",
+        "description": "Intentional self-harm by drowning and submersion while in swimming pool, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.1XXS",
+        "description": "Intentional self-harm by drowning and submersion while in swimming pool, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X71.2",
+        "description": "Intentional self-harm by drowning and submersion after jump into swimming pool",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X71.2XXA",
+            "description": "Intentional self-harm by drowning and submersion after jump into swimming pool, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.2XXD",
+            "description": "Intentional self-harm by drowning and submersion after jump into swimming pool, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X71.2XXS",
+            "description": "Intentional self-harm by drowning and submersion after jump into swimming pool, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X71.2XXA",
+        "description": "Intentional self-harm by drowning and submersion after jump into swimming pool, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X72",
+    "description": "Intentional self-harm by handgun discharge",
+    "clinical_information": [],
+    "applicable_to": [
+      "Intentional self-harm by gun for single hand use",
+      "Intentional self-harm by pistol",
+      "Intentional self-harm by revolver"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X72.XXXA",
+        "description": "Intentional self-harm by handgun discharge, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X72.XXXD",
+        "description": "Intentional self-harm by handgun discharge, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X72.XXXS",
+        "description": "Intentional self-harm by handgun discharge, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X73",
+    "description": "Intentional self-harm by rifle, shotgun and larger firearm discharge",
+    "clinical_information": [],
+    "applicable_to": [
+      "Intentional self-harm by BB gun discharge",
+      "Intentional self-harm by pellet gun discharge"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X73.0",
+        "description": "Intentional self-harm by shotgun discharge",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X73.0XXA",
+            "description": "Intentional self-harm by shotgun discharge, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.0XXD",
+            "description": "Intentional self-harm by shotgun discharge, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.0XXS",
+            "description": "Intentional self-harm by shotgun discharge, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X73.0XXA",
+        "description": "Intentional self-harm by shotgun discharge, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.0XXD",
+        "description": "Intentional self-harm by shotgun discharge, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.0XXS",
+        "description": "Intentional self-harm by shotgun discharge, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.1",
+        "description": "Intentional self-harm by hunting rifle discharge",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X73.1XXA",
+            "description": "Intentional self-harm by hunting rifle discharge, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.1XXD",
+            "description": "Intentional self-harm by hunting rifle discharge, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.1XXS",
+            "description": "Intentional self-harm by hunting rifle discharge, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X73.1XXA",
+        "description": "Intentional self-harm by hunting rifle discharge, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.1XXD",
+        "description": "Intentional self-harm by hunting rifle discharge, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.1XXS",
+        "description": "Intentional self-harm by hunting rifle discharge, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X73.2",
+        "description": "Intentional self-harm by machine gun discharge",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X73.2XXA",
+            "description": "Intentional self-harm by machine gun discharge, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.2XXD",
+            "description": "Intentional self-harm by machine gun discharge, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X73.2XXS",
+            "description": "Intentional self-harm by machine gun discharge, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X73.2XXA",
+        "description": "Intentional self-harm by machine gun discharge, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X74",
+    "description": "Intentional self-harm by other and unspecified firearm and gun discharge",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X74.0",
+        "description": "Intentional self-harm by gas, air or spring-operated guns",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X74.01",
+            "description": "Intentional self-harm by airgun",
+            "clinical_information": [],
+            "applicable_to": [
+              "Intentional self-harm by BB gun discharge",
+              "Intentional self-harm by pellet gun discharge"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X74.01XA",
+                "description": "Intentional self-harm by airgun, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.01XD",
+                "description": "Intentional self-harm by airgun, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.01XS",
+                "description": "Intentional self-harm by airgun, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X74.01XA",
+            "description": "Intentional self-harm by airgun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.01XD",
+            "description": "Intentional self-harm by airgun, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.01XS",
+            "description": "Intentional self-harm by airgun, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.02",
+            "description": "Intentional self-harm by paintball gun",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X74.02XA",
+                "description": "Intentional self-harm by paintball gun, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.02XD",
+                "description": "Intentional self-harm by paintball gun, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.02XS",
+                "description": "Intentional self-harm by paintball gun, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X74.02XA",
+            "description": "Intentional self-harm by paintball gun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.02XD",
+            "description": "Intentional self-harm by paintball gun, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.02XS",
+            "description": "Intentional self-harm by paintball gun, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.09",
+            "description": "Intentional self-harm by other gas, air or spring-operated gun",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": [
+              {
+                "code": "X74.09XA",
+                "description": "Intentional self-harm by other gas, air or spring-operated gun, initial encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.09XD",
+                "description": "Intentional self-harm by other gas, air or spring-operated gun, subsequent encounter",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              },
+              {
+                "code": "X74.09XS",
+                "description": "Intentional self-harm by other gas, air or spring-operated gun, sequela",
+                "clinical_information": [],
+                "applicable_to": [
+                  "Purposely self-inflicted injury",
+                  "Suicide (attempted)"
+                ],
+                "approximate_synonyms": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "X74.09XA",
+            "description": "Intentional self-harm by other gas, air or spring-operated gun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X74.01",
+        "description": "Intentional self-harm by airgun",
+        "clinical_information": [],
+        "applicable_to": [
+          "Intentional self-harm by BB gun discharge",
+          "Intentional self-harm by pellet gun discharge"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X74.01XA",
+            "description": "Intentional self-harm by airgun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.01XD",
+            "description": "Intentional self-harm by airgun, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.01XS",
+            "description": "Intentional self-harm by airgun, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X74.01XA",
+        "description": "Intentional self-harm by airgun, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.01XD",
+        "description": "Intentional self-harm by airgun, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.01XS",
+        "description": "Intentional self-harm by airgun, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.02",
+        "description": "Intentional self-harm by paintball gun",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X74.02XA",
+            "description": "Intentional self-harm by paintball gun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.02XD",
+            "description": "Intentional self-harm by paintball gun, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.02XS",
+            "description": "Intentional self-harm by paintball gun, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X74.02XA",
+        "description": "Intentional self-harm by paintball gun, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.02XD",
+        "description": "Intentional self-harm by paintball gun, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.02XS",
+        "description": "Intentional self-harm by paintball gun, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X74.09",
+        "description": "Intentional self-harm by other gas, air or spring-operated gun",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X74.09XA",
+            "description": "Intentional self-harm by other gas, air or spring-operated gun, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.09XD",
+            "description": "Intentional self-harm by other gas, air or spring-operated gun, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X74.09XS",
+            "description": "Intentional self-harm by other gas, air or spring-operated gun, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "X75",
+    "description": "Intentional self-harm by explosive material",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X75.XXXA",
+        "description": "Intentional self-harm by explosive material, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X75.XXXD",
+        "description": "Intentional self-harm by explosive material, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X75.XXXS",
+        "description": "Intentional self-harm by explosive material, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X76",
+    "description": "Intentional self-harm by smoke, fire and flames",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X76.XXXA",
+        "description": "Intentional self-harm by smoke, fire and flames, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X76.XXXD",
+        "description": "Intentional self-harm by smoke, fire and flames, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X76.XXXS",
+        "description": "Intentional self-harm by smoke, fire and flames, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X77",
+    "description": "Intentional self-harm by steam, hot vapors and hot objects",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X77.0",
+        "description": "Intentional self-harm by steam or hot vapors",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X77.0XXA",
+            "description": "Intentional self-harm by steam or hot vapors, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.0XXD",
+            "description": "Intentional self-harm by steam or hot vapors, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.0XXS",
+            "description": "Intentional self-harm by steam or hot vapors, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X77.0XXA",
+        "description": "Intentional self-harm by steam or hot vapors, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.0XXD",
+        "description": "Intentional self-harm by steam or hot vapors, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.0XXS",
+        "description": "Intentional self-harm by steam or hot vapors, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.1",
+        "description": "Intentional self-harm by hot tap water",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X77.1XXA",
+            "description": "Intentional self-harm by hot tap water, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.1XXD",
+            "description": "Intentional self-harm by hot tap water, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.1XXS",
+            "description": "Intentional self-harm by hot tap water, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X77.1XXA",
+        "description": "Intentional self-harm by hot tap water, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.1XXD",
+        "description": "Intentional self-harm by hot tap water, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.1XXS",
+        "description": "Intentional self-harm by hot tap water, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X77.2",
+        "description": "Intentional self-harm by other hot fluids",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X77.2XXA",
+            "description": "Intentional self-harm by other hot fluids, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.2XXD",
+            "description": "Intentional self-harm by other hot fluids, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X77.2XXS",
+            "description": "Intentional self-harm by other hot fluids, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X77.2XXA",
+        "description": "Intentional self-harm by other hot fluids, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X78",
+    "description": "Intentional self-harm by sharp object",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X78.0",
+        "description": "Intentional self-harm by sharp glass",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X78.0XXA",
+            "description": "Intentional self-harm by sharp glass, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.0XXD",
+            "description": "Intentional self-harm by sharp glass, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.0XXS",
+            "description": "Intentional self-harm by sharp glass, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X78.0XXA",
+        "description": "Intentional self-harm by sharp glass, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.0XXD",
+        "description": "Intentional self-harm by sharp glass, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.0XXS",
+        "description": "Intentional self-harm by sharp glass, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.1",
+        "description": "Intentional self-harm by knife",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X78.1XXA",
+            "description": "Intentional self-harm by knife, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.1XXD",
+            "description": "Intentional self-harm by knife, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.1XXS",
+            "description": "Intentional self-harm by knife, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X78.1XXA",
+        "description": "Intentional self-harm by knife, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.1XXD",
+        "description": "Intentional self-harm by knife, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.1XXS",
+        "description": "Intentional self-harm by knife, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X78.2",
+        "description": "Intentional self-harm by sword or dagger",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X78.2XXA",
+            "description": "Intentional self-harm by sword or dagger, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.2XXD",
+            "description": "Intentional self-harm by sword or dagger, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X78.2XXS",
+            "description": "Intentional self-harm by sword or dagger, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X78.2XXA",
+        "description": "Intentional self-harm by sword or dagger, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X79",
+    "description": "Intentional self-harm by blunt object",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X79.XXXA",
+        "description": "Intentional self-harm by blunt object, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X79.XXXD",
+        "description": "Intentional self-harm by blunt object, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X79.XXXS",
+        "description": "Intentional self-harm by blunt object, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X80",
+    "description": "Intentional self-harm by jumping from a high place",
+    "clinical_information": [],
+    "applicable_to": [
+      "Intentional fall from one level to another"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X80.XXXA",
+        "description": "Intentional self-harm by jumping from a high place, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X80.XXXD",
+        "description": "Intentional self-harm by jumping from a high place, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X80.XXXS",
+        "description": "Intentional self-harm by jumping from a high place, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X81",
+    "description": "Intentional self-harm by jumping or lying in front of moving object",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X81.0",
+        "description": "Intentional self-harm by jumping or lying in front of motor vehicle",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X81.0XXA",
+            "description": "Intentional self-harm by jumping or lying in front of motor vehicle, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.0XXD",
+            "description": "Intentional self-harm by jumping or lying in front of motor vehicle, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.0XXS",
+            "description": "Intentional self-harm by jumping or lying in front of motor vehicle, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X81.0XXA",
+        "description": "Intentional self-harm by jumping or lying in front of motor vehicle, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.0XXD",
+        "description": "Intentional self-harm by jumping or lying in front of motor vehicle, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.0XXS",
+        "description": "Intentional self-harm by jumping or lying in front of motor vehicle, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.1",
+        "description": "Intentional self-harm by jumping or lying in front of (subway) train",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X81.1XXA",
+            "description": "Intentional self-harm by jumping or lying in front of (subway) train, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.1XXD",
+            "description": "Intentional self-harm by jumping or lying in front of (subway) train, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.1XXS",
+            "description": "Intentional self-harm by jumping or lying in front of (subway) train, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X81.1XXA",
+        "description": "Intentional self-harm by jumping or lying in front of (subway) train, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.1XXD",
+        "description": "Intentional self-harm by jumping or lying in front of (subway) train, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.1XXS",
+        "description": "Intentional self-harm by jumping or lying in front of (subway) train, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X81.8",
+        "description": "Intentional self-harm by jumping or lying in front of other moving object",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X81.8XXA",
+            "description": "Intentional self-harm by jumping or lying in front of other moving object, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.8XXD",
+            "description": "Intentional self-harm by jumping or lying in front of other moving object, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X81.8XXS",
+            "description": "Intentional self-harm by jumping or lying in front of other moving object, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X81.8XXA",
+        "description": "Intentional self-harm by jumping or lying in front of other moving object, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X82",
+    "description": "Intentional self-harm by crashing of motor vehicle",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X82.0",
+        "description": "Intentional collision of motor vehicle with other motor vehicle",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X82.0XXA",
+            "description": "Intentional collision of motor vehicle with other motor vehicle, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.0XXD",
+            "description": "Intentional collision of motor vehicle with other motor vehicle, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.0XXS",
+            "description": "Intentional collision of motor vehicle with other motor vehicle, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X82.0XXA",
+        "description": "Intentional collision of motor vehicle with other motor vehicle, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.0XXD",
+        "description": "Intentional collision of motor vehicle with other motor vehicle, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.0XXS",
+        "description": "Intentional collision of motor vehicle with other motor vehicle, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.1",
+        "description": "Intentional collision of motor vehicle with train",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X82.1XXA",
+            "description": "Intentional collision of motor vehicle with train, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.1XXD",
+            "description": "Intentional collision of motor vehicle with train, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.1XXS",
+            "description": "Intentional collision of motor vehicle with train, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X82.1XXA",
+        "description": "Intentional collision of motor vehicle with train, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.1XXD",
+        "description": "Intentional collision of motor vehicle with train, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.1XXS",
+        "description": "Intentional collision of motor vehicle with train, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X82.2",
+        "description": "Intentional collision of motor vehicle with tree",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X82.2XXA",
+            "description": "Intentional collision of motor vehicle with tree, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.2XXD",
+            "description": "Intentional collision of motor vehicle with tree, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X82.2XXS",
+            "description": "Intentional collision of motor vehicle with tree, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X82.2XXA",
+        "description": "Intentional collision of motor vehicle with tree, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "X83",
+    "description": "Intentional self-harm by other specified means",
+    "clinical_information": [],
+    "applicable_to": [
+      "Purposely self-inflicted injury",
+      "Suicide (attempted)"
+    ],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "X83.0",
+        "description": "Intentional self-harm by crashing of aircraft",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X83.0XXA",
+            "description": "Intentional self-harm by crashing of aircraft, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.0XXD",
+            "description": "Intentional self-harm by crashing of aircraft, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.0XXS",
+            "description": "Intentional self-harm by crashing of aircraft, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X83.0XXA",
+        "description": "Intentional self-harm by crashing of aircraft, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.0XXD",
+        "description": "Intentional self-harm by crashing of aircraft, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.0XXS",
+        "description": "Intentional self-harm by crashing of aircraft, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.1",
+        "description": "Intentional self-harm by electrocution",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X83.1XXA",
+            "description": "Intentional self-harm by electrocution, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.1XXD",
+            "description": "Intentional self-harm by electrocution, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.1XXS",
+            "description": "Intentional self-harm by electrocution, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X83.1XXA",
+        "description": "Intentional self-harm by electrocution, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.1XXD",
+        "description": "Intentional self-harm by electrocution, subsequent encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.1XXS",
+        "description": "Intentional self-harm by electrocution, sequela",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "X83.2",
+        "description": "Intentional self-harm by exposure to extremes of cold",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": [
+          {
+            "code": "X83.2XXA",
+            "description": "Intentional self-harm by exposure to extremes of cold, initial encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.2XXD",
+            "description": "Intentional self-harm by exposure to extremes of cold, subsequent encounter",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          },
+          {
+            "code": "X83.2XXS",
+            "description": "Intentional self-harm by exposure to extremes of cold, sequela",
+            "clinical_information": [],
+            "applicable_to": [
+              "Purposely self-inflicted injury",
+              "Suicide (attempted)"
+            ],
+            "approximate_synonyms": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "X83.2XXA",
+        "description": "Intentional self-harm by exposure to extremes of cold, initial encounter",
+        "clinical_information": [],
+        "applicable_to": [
+          "Purposely self-inflicted injury",
+          "Suicide (attempted)"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  }
+]

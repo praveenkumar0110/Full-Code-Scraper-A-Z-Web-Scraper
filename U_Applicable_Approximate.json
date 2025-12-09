@@ -1,0 +1,87 @@
+[
+  {
+    "code": "U00",
+    "description": "COVID-19",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": []
+  },
+  {
+    "code": "U07",
+    "description": "Emergency use of",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "U07.0",
+        "description": "Vaping-related disorder",
+        "clinical_information": [],
+        "applicable_to": [
+          "Dabbing related lung damage",
+          "Dabbing related lung injury",
+          "E-cigarette, or vaping, product use associated lung injury [EVALI]",
+          "Electronic cigarette related lung damage",
+          "Electronic cigarette related lung injury"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      },
+      {
+        "code": "U07.1",
+        "description": "COVID-19",
+        "clinical_information": [],
+        "applicable_to": [
+          "Pneumonia due to 2019 novel coronavirus (SARS-CoV-2)",
+          "Pneumonia due to COVID-19"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "U09",
+    "description": "Post COVID-19 condition",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": [
+      {
+        "code": "U09.9",
+        "description": "Post COVID-19 condition, unspecified",
+        "clinical_information": [],
+        "applicable_to": [
+          "Post-acute sequela of COVID-19"
+        ],
+        "approximate_synonyms": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "U49",
+    "description": "COVID-19",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": []
+  },
+  {
+    "code": "U50",
+    "description": "COVID-19",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": []
+  },
+  {
+    "code": "U85",
+    "description": "COVID-19",
+    "clinical_information": [],
+    "applicable_to": [],
+    "approximate_synonyms": [],
+    "children": []
+  }
+]
