@@ -24,7 +24,7 @@ The final output is a **clean, well-structured JSON file** containing full ICD-1
   - Sub-child codes (any depth)
 - Cleans and normalizes code descriptions
 - Extracts additional clinical details
-- Saves everything into a structured JSON file
+- Saves everything into a structured JSON file.
 
 ---
 
